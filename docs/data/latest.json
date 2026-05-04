@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T07:50:16+00:00",
+  "generated_at": "2026-05-04T13:18:25+00:00",
   "stats": {
     "channels": 8,
     "videos": 80,
     "transcripts": 80,
-    "analysis": 38,
-    "last_video_update": "2026-05-04T07:50:16+00:00"
+    "analysis": 63,
+    "last_video_update": "2026-05-04T13:18:25+00:00"
   },
   "channels": [
     {
@@ -15,7 +15,7 @@
       "handle": "@Deeplearningai",
       "url": "https://www.youtube.com/@DeepLearningAI/videos",
       "description": "Welcome to the official DeepLearning.AI YouTube channel! Here you can find the videos from our Coursera programs on machine learning as well as recorded events. DeepLearning.AI was founded in 2017 by machine learning and education pioneer Andrew Ng to fill a need for world-class AI education. DeepLearning.AI has created high-quality AI programs on Coursera that have gained an extensive global following. By providing a platform for education and fostering a tight-knit community, DeepLearning.AI has become the pathway for anyone looking to build an AI career.",
-      "last_checked_at": "2026-05-04T07:49:57+00:00"
+      "last_checked_at": "2026-05-04T13:18:21+00:00"
     },
     {
       "id": 2,
@@ -24,7 +24,7 @@
       "handle": "@googledeepmind",
       "url": "https://www.youtube.com/@GoogleDeepMind/videos",
       "description": "We live in an exciting time when AI research and technology are delivering extraordinary advances.In the coming years, AI \u2014 and ultimately artificial general intelligence (AGI) \u2014 has the potential to drive one of the greatest transformations in history. We\u2019re a team of scientists, engineers, ethicists and more, working to build the next generation of AI systems safely and responsibly. By solving some of the hardest scientific and engineering challenges of our time, we\u2019re working to create breakthrough technologies that could advance science, transform work, serve diverse communities \u2014 and improve billions of people\u2019s lives. Learn more about Google DeepMind: https://deepmind.google/about/",
-      "last_checked_at": "2026-05-04T07:49:56+00:00"
+      "last_checked_at": "2026-05-04T13:18:20+00:00"
     },
     {
       "id": 4,
@@ -33,7 +33,7 @@
       "handle": "@HuggingFace",
       "url": "https://www.youtube.com/@HuggingFace/videos",
       "description": "HuggingFace is the platform where the AI community collaborates on models, datasets, research papers and applications. Let's go open science and open-source!",
-      "last_checked_at": "2026-05-04T07:49:58+00:00"
+      "last_checked_at": "2026-05-04T13:18:21+00:00"
     },
     {
       "id": 8,
@@ -42,7 +42,7 @@
       "handle": "@LatentSpacePod",
       "url": "https://www.youtube.com/@LatentSpacePod/videos",
       "description": "The podcast & newsletter where 170,000+ AI Engineers gather to talk models, tools and ideas. Breaking news today you will use at work tomorrow! Full show notes and newsletter at https://latent.space",
-      "last_checked_at": "2026-05-04T07:49:55+00:00"
+      "last_checked_at": "2026-05-04T13:18:20+00:00"
     },
     {
       "id": 7,
@@ -51,7 +51,7 @@
       "handle": "@matthew_berman",
       "url": "https://www.youtube.com/@matthew_berman/videos",
       "description": "My mission is simple: to make the benefits of AI and emerging technology accessible to everyone, everywhere. I believe we are witnessing the most important technological shift of our lifetimes, and I am passionate about helping you understand what it all means. My team and I are not just serving the people building at the frontier; we stay close to the researchers and engineers to translate their work for a broader, curious audience. If you are deeply interested in AI and want to stay informed and competitive in a rapidly changing world, you belong here.",
-      "last_checked_at": "2026-05-04T07:50:02+00:00"
+      "last_checked_at": "2026-05-04T13:18:22+00:00"
     },
     {
       "id": 1,
@@ -60,7 +60,7 @@
       "handle": "@OpenAI",
       "url": "https://www.youtube.com/@OpenAI/videos",
       "description": "OpenAI\u2019s mission is to ensure that artificial general intelligence benefits all of humanity.",
-      "last_checked_at": "2026-05-04T07:49:54+00:00"
+      "last_checked_at": "2026-05-04T13:18:19+00:00"
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
       "handle": "@TwoMinutePapers",
       "url": "https://www.youtube.com/@TwoMinutePapers/videos",
       "description": "What a time to be alive - with Dr. K\u00e1roly Zsolnai-Feh\u00e9r.",
-      "last_checked_at": "2026-05-04T07:49:59+00:00"
+      "last_checked_at": "2026-05-04T13:18:21+00:00"
     },
     {
       "id": 6,
@@ -78,7 +78,7 @@
       "handle": "@YannicKilcher",
       "url": "https://www.youtube.com/@YannicKilcher/videos",
       "description": "I make videos about machine learning research papers, programming, and issues of the AI community, and the broader impact of AI in society. Twitter: https://twitter.com/ykilcher\nDiscord: https://ykilcher.com/discord\nBitChute: https://www.bitchute.com/channel/yannic-kilcher\nLinkedIn: https://www.linkedin.com/in/ykilcher\nBiliBili: https://space.bilibili.com/2017636191 If you want to support me, the best thing to do is to share out the content :) If you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
-      "last_checked_at": "2026-05-04T07:50:00+00:00"
+      "last_checked_at": "2026-05-04T13:18:22+00:00"
     }
   ],
   "videos": [
@@ -261,19 +261,39 @@
       "thumbnail_url": null,
       "duration_seconds": 93,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "OpenAI",
       "channel_handle": "@OpenAI",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en Hi,<00:00:01.309><c> </c><00:00:01.760><c> my</c><00:00:01.920><c> name</c><00:00:02.120><c> is</c><00:00:02.280><c> Arjun.</c><00:00:03.080><c> In</c><00:00:03.240><c> this</c> Hi, my name is Arjun. In this Hi, my name is Arjun. In this video,<00:00:04.080><c> I'll</c><00:00:04.240><c> be</c><00:00:04.400><c> walking</c><00:00:04.800><c> you</c><00:00:04.920><c> through</c><00:00:05.280><c> how</c> video, I'll be walking you through how video, I'll be walking you thr",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "OpenAI"
+      ],
+      "topics": [
+        "agents",
+        "research papers",
+        "tools and apps",
+        "enterprise adoption"
+      ],
+      "keywords": [
+        "slate",
+        "software",
+        "work",
+        "review",
+        "agent",
+        "video",
+        "time",
+        "skill"
+      ],
+      "themes": [
+        "agents",
+        "multimodality",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 6,
@@ -468,19 +488,30 @@
       "thumbnail_url": null,
       "duration_seconds": 27,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "Google DeepMind",
       "channel_handle": "@googledeepmind",
       "transcript_source": "youtube_caption",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "[MUSIC PLAYING]",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "Google DeepMind"
+      ],
+      "topics": [
+        "llm_overview"
+      ],
+      "keywords": [
+        "introducing",
+        "lyria",
+        "music",
+        "playing"
+      ],
+      "themes": [
+        "general_llm_news"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 11,
@@ -630,19 +661,36 @@
       "thumbnail_url": null,
       "duration_seconds": 91,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "Google DeepMind",
       "channel_handle": "@googledeepmind",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en I've<00:00:00.480><c> been</c><00:00:00.640><c> using</c><00:00:00.880><c> AI</c><00:00:01.199><c> in</c><00:00:01.360><c> my</c><00:00:01.600><c> research.</c><00:00:02.960><c> It</c> I've been using AI in my research. It I've been using AI in my research. It really<00:00:03.439><c> has</c><00:00:03.600><c> the</c><00:00:03.840><c> potential</c><00:00:04.400><c> to</c><00:00:04.584><c> </c> really has the potential to really has the potential to accelerate<00:00:05.6",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "Google DeepMind"
+      ],
+      "topics": [
+        "research papers",
+        "tools and apps"
+      ],
+      "keywords": [
+        "research",
+        "really",
+        "paper",
+        "model",
+        "work",
+        "theory",
+        "took",
+        "correct"
+      ],
+      "themes": [
+        "training",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 15,
@@ -701,121 +749,201 @@
       "thumbnail_url": null,
       "duration_seconds": 21,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "Google DeepMind",
       "channel_handle": "@googledeepmind",
       "transcript_source": "youtube_caption",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "[NO AUDIO]",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "Google DeepMind"
+      ],
+      "topics": [
+        "llm_overview"
+      ],
+      "keywords": [
+        "project",
+        "genie",
+        "skydiving",
+        "audio"
+      ],
+      "themes": [
+        "multimodality"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 17,
       "youtube_video_id": "XteKUbuvNrI",
       "title": "Turn your multimodal data into something you can actually query",
-      "description": null,
+      "description": "Learn more: https://bit.ly/3QcAj29 Images, audio, and video now make up a large share of the data teams work with, but most pipelines still assume everything is structured. Our latest course,...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=XteKUbuvNrI",
       "thumbnail_url": null,
       "duration_seconds": 84,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "DeepLearningAI",
       "channel_handle": "@Deeplearningai",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en I'm<00:00:00.400><c> delighted</c><00:00:00.920><c> to</c><00:00:01.000><c> introduce</c><00:00:01.360><c> this</c><00:00:01.520><c> course</c> I'm delighted to introduce this course I'm delighted to introduce this course on<00:00:02.040><c> multimodal</c><00:00:02.760><c> data</c><00:00:03.040><c> pipelines</c><00:00:03.640><c> created</c> on multimodal data pipelines created on multimodal data pipelines created <00:00:04.160><c> in</c><00:00:04.320><c> partnership</",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "DeepLearningAI"
+      ],
+      "topics": [
+        "tools and apps"
+      ],
+      "keywords": [
+        "audio",
+        "multimodal",
+        "data",
+        "build",
+        "images",
+        "video",
+        "course",
+        "pipelines"
+      ],
+      "themes": [
+        "multimodality",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 18,
       "youtube_video_id": "bJ8F43j1Fqw",
       "title": "New course! Spec-Driven Development",
-      "description": null,
+      "description": "Enroll for free: https://bit.ly/4toWsIY Learn spec-driven development in this short course built in partnership with JetBrains, taught by Paul Everitt, Developer Advocate at JetBrains. Vibe...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=bJ8F43j1Fqw",
       "thumbnail_url": null,
       "duration_seconds": 172,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "DeepLearningAI",
       "channel_handle": "@Deeplearningai",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en I'm<00:00:00.320><c> excited</c><00:00:00.800><c> to</c><00:00:00.920><c> announce</c><00:00:01.320><c> a</c><00:00:01.400><c> new</c><00:00:01.560><c> course</c><00:00:02.000><c> on</c> I'm excited to announce a new course on I'm excited to announce a new course on spec-driven<00:00:03.320><c> development</c><00:00:04.280><c> built</c><00:00:04.520><c> in</c> spec-driven development built in spec-driven development built in partnership<00:00:05.160><c> with</c><00:00",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "DeepLearningAI"
+      ],
+      "topics": [
+        "agents",
+        "tools and apps",
+        "safety and alignment"
+      ],
+      "keywords": [
+        "code",
+        "course",
+        "agent",
+        "specs",
+        "coding",
+        "context",
+        "agents",
+        "spec-driven"
+      ],
+      "themes": [
+        "agents",
+        "safety",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 19,
       "youtube_video_id": "YW6oWf4xoGk",
       "title": "Boost LLM performance: New SGLang course is live",
-      "description": null,
+      "description": "Learn more: https://bit.ly/4du2u69 Introducing Efficient Inference with SGLang: Text and Image Generation, built in partnership with LMSys and RadixArk, and taught by Richard Chen a Member...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=YW6oWf4xoGk",
       "thumbnail_url": null,
       "duration_seconds": 112,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "DeepLearningAI",
       "channel_handle": "@Deeplearningai",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en I'm<00:00:00.320><c> thrilled</c><00:00:00.680><c> to</c><00:00:00.800><c> introduce</c><00:00:01.240><c> this</c><00:00:01.400><c> course</c><00:00:01.760><c> on</c> I'm thrilled to introduce this course on I'm thrilled to introduce this course on efficient<00:00:02.640><c> inference</c><00:00:03.160><c> with</c><00:00:03.520><c> SGLang,</c><00:00:04.160><c> where</c> efficient inference with SGLang, where efficient inference with SGLang, where you<00:00:04.400><c> l",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "DeepLearningAI"
+      ],
+      "topics": [
+        "research papers",
+        "tools and apps"
+      ],
+      "keywords": [
+        "inference",
+        "course",
+        "sglang",
+        "system",
+        "these",
+        "models",
+        "efficient",
+        "learn"
+      ],
+      "themes": [
+        "inference",
+        "multimodality",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 20,
       "youtube_video_id": "lzKmZzmy29Y",
       "title": "TensorFlow Developer Professional Certificate",
-      "description": null,
+      "description": "Get started now: https://learn.deeplearning.ai/specializations/tensorflow-developer-professional-certificate The TensorFlow Developer Professional Certificate Specialization is aimed at developers...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=lzKmZzmy29Y",
       "thumbnail_url": null,
       "duration_seconds": 210,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "DeepLearningAI",
       "channel_handle": "@Deeplearningai",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en Welcome<00:00:00.840><c> to</c><00:00:01.160><c> TensorFlow</c><00:00:01.760><c> from</c><00:00:02.120><c> basics</c><00:00:02.720><c> to</c> Welcome to TensorFlow from basics to Welcome to TensorFlow from basics to mastery. mastery. mastery.",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "DeepLearningAI"
+      ],
+      "topics": [
+        "tools and apps"
+      ],
+      "keywords": [
+        "learning",
+        "like",
+        "things",
+        "machine",
+        "tensorflow",
+        "courses",
+        "thank",
+        "deep"
+      ],
+      "themes": [
+        "multimodality",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 21,
       "youtube_video_id": "QRTtS3zElmE",
       "title": "Natural Language Processing Specialization by DeepLearning.AI",
-      "description": null,
+      "description": "Get started now: https://learn.deeplearning.ai/specializations/natural-language-processing Natural language processing is a subfield of linguistics, computer science, and artificial intelligence...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=QRTtS3zElmE",
       "thumbnail_url": null,
@@ -866,7 +994,7 @@
       "id": 22,
       "youtube_video_id": "JPcx9qHzzgk",
       "title": "AI for Everyone by Andrew Ng",
-      "description": null,
+      "description": "Get started: https://learn.deeplearning.ai/courses/ai-for-everyone AI is not only for engineers. \u201cAI for Everyone\u201d, a non-technical course, will help you understand AI technologies and...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=JPcx9qHzzgk",
       "thumbnail_url": null,
@@ -913,25 +1041,40 @@
       "id": 23,
       "youtube_video_id": "omGyNyMNeGM",
       "title": "LoFi Beats for Coding & Focus: Calm Beats to Study, Build, and Think",
-      "description": null,
+      "description": "A calm playlist for coding, studying, or focused work. Whether you're debugging, reading, or building exciting new things after taking one of DeepLearning.AI's courses, this mix is designed...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=omGyNyMNeGM",
       "thumbnail_url": null,
       "duration_seconds": 3614,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "DeepLearningAI",
       "channel_handle": "@Deeplearningai",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en feel<00:00:44.960><c> it.</c><00:00:45.280><c> Hey</c> &gt;&gt; &gt;&gt; Hey,<00:00:57.640><c> </c> <00:01:10.240><c> hey,</c> hey. &gt;&gt; &gt;&gt; M<00:01:36.320><c> down.</c> M. &gt;&gt; &gt;&gt; Heat.",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "DeepLearningAI"
+      ],
+      "topics": [
+        "research papers"
+      ],
+      "keywords": [
+        "heat",
+        "bell",
+        "hand",
+        "blue",
+        "beats",
+        "yeah",
+        "lofi",
+        "coding"
+      ],
+      "themes": [
+        "general_llm_news"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 24,
@@ -943,49 +1086,89 @@
       "thumbnail_url": null,
       "duration_seconds": 98,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "DeepLearningAI",
       "channel_handle": "@Deeplearningai",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en I'm<00:00:00.400><c> thrilled</c><00:00:00.640><c> to</c><00:00:00.800><c> introduce</c><00:00:01.360><c> agent</c><00:00:01.760><c> memory</c> I'm thrilled to introduce agent memory I'm thrilled to introduce agent memory building<00:00:02.800><c> memory</c><00:00:03.280><c> aware</c><00:00:03.760><c> agents</c><00:00:04.480><c> built</c><00:00:04.720><c> in</c> building memory aware agents built in building memory aware agents built in partnership<00:00:05.359><c> wi",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "DeepLearningAI"
+      ],
+      "topics": [
+        "agents",
+        "product releases",
+        "tools and apps"
+      ],
+      "keywords": [
+        "memory",
+        "agent",
+        "engineering",
+        "agents",
+        "course",
+        "system",
+        "learn",
+        "building"
+      ],
+      "themes": [
+        "agents",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 25,
       "youtube_video_id": "aUlhaeb0o4w",
       "title": "Multi-Agent AutoResearch with Open Source Models",
-      "description": "In this video, we walk through a multi-agent setup of AutoResearch using open source models and OpenCode. Timestamps\n00:00 - Introduction: Multi-agent AutoResearch setup\n01:07 - Agent Roles:...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=aUlhaeb0o4w",
       "thumbnail_url": null,
       "duration_seconds": 550,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "Hugging Face",
       "channel_handle": "@HuggingFace",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en Hi, in this video I'm going to walk you through a multi-agent setup of AutoResearch. I use open source models and an open source code harness, OpenCode, and I implement AutoResearch, which is a project by Andre Carpathie where he takes a nano GPT project, an LLM in its simplest terms, and optimizes the code with a code agent. He uses Claude Code and Opus 4.6.",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "Hugging Face",
+        "Open Source"
+      ],
+      "topics": [
+        "agents",
+        "open-source models",
+        "research papers",
+        "tools and apps"
+      ],
+      "keywords": [
+        "then",
+        "agent",
+        "open",
+        "here",
+        "code",
+        "these",
+        "repo",
+        "training"
+      ],
+      "themes": [
+        "agents",
+        "multimodality",
+        "training",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 26,
       "youtube_video_id": "ZD3wwGliWwc",
       "title": "Hugging Face Journal Club: Embarrassingly Simple Self-Distillation Improves Code Generation",
-      "description": "The Hugging Face research team discusses Apple's Embarrassingly Simple Self-Distillation Improves Code Generation paper. Paper: https://huggingface.co/papers/2604.01193",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=ZD3wwGliWwc",
       "thumbnail_url": null,
@@ -1028,7 +1211,7 @@
       "id": 27,
       "youtube_video_id": "jlGf2qieSk0",
       "title": "RoPE: Understanding Rotary Positional Embeddings in transformers",
-      "description": "Mastering Rotary Positional Embeddings (RoPE): From Zero to Deep Dive Unlock the secrets behind modern Large Language Model (LLM) architectures in this comprehensive breakdown of Rotary Positional...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=jlGf2qieSk0",
       "thumbnail_url": null,
@@ -1065,7 +1248,7 @@
       "id": 28,
       "youtube_video_id": "WyVMGnO-oHk",
       "title": "What are Mixture-of-Experts Models | ft. Aritra",
-      "description": "In this clip, Aritra Roy Gosthipaty from the Hugging Face Transformers team breaks down one of the most important (and often misunderstood) architectures in modern AI: Mixture-of-Experts models....",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=WyVMGnO-oHk",
       "thumbnail_url": null,
@@ -1099,7 +1282,7 @@
       "id": 29,
       "youtube_video_id": "O3Ul6H20pLI",
       "title": "Intro to Mixture of Experts | Aritra Roy Gosthipaty | HF Podcast #2",
-      "description": "In this episode, Alejandro sits down with Aritra Roy Gosthipaty from the Hugging Face Transformers team to talk about mixture-of-experts models, why dense models still matter, how synthetic...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=O3Ul6H20pLI",
       "thumbnail_url": null,
@@ -1136,7 +1319,7 @@
       "id": 30,
       "youtube_video_id": "dPe9v4gqbdg",
       "title": "We Hired 10 Humans to Train a Robot to Fold Shirts",
-      "description": "hey everyone. here's a story about our robotics lab. Here is the blog: https://huggingface.co/spaces/lerobot/robot-folding",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=dPe9v4gqbdg",
       "thumbnail_url": null,
@@ -1173,7 +1356,7 @@
       "id": 31,
       "youtube_video_id": "WXiNBS1GkIU",
       "title": "Are World Models the Next Big Thing? | Merve Noyan",
-      "description": "In this clip, Merve breaks down her predictions on ai for 2026 and explains why it matters in practice. Merve goes deep on world models, VLA systems, and on-device agentic models. Chapters:...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=WXiNBS1GkIU",
       "thumbnail_url": null,
@@ -1244,7 +1427,7 @@
       "id": 33,
       "youtube_video_id": "Xf_v62TQOx4",
       "title": "NVIDIA's New AI Broke My Brain",
-      "description": "Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The paper is available here:\nhttps://nvlabs.github.io/GEAR-SONIC/ Our Patreon if you wish to support...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=Xf_v62TQOx4",
       "thumbnail_url": null,
@@ -1278,7 +1461,7 @@
       "id": 34,
       "youtube_video_id": "Sk9tvyRSCgY",
       "title": "DeepMind\u2019s New AI: A Gift To Humanity",
-      "description": "Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Links:\nhttps://deepmind.google/models/gemma/gemma-4/\nhttps://ai.google.dev/gemma/docs/core/model_card_4...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=Sk9tvyRSCgY",
       "thumbnail_url": null,
@@ -1312,7 +1495,7 @@
       "id": 35,
       "youtube_video_id": "Ersv1ogj7Jo",
       "title": "Anthropic\u2019s New AI Solves Problems\u2026By Cheating",
-      "description": "Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The paper is available here:\nhttps://www.anthropic.com/claude-mythos-preview-system-card Links...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=Ersv1ogj7Jo",
       "thumbnail_url": null,
@@ -1347,7 +1530,7 @@
       "id": 36,
       "youtube_video_id": "mFSFvKquXwI",
       "title": "NVIDIA\u2019s New AI Shouldn\u2019t Work\u2026But It Does",
-      "description": "Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers The paper is available here:\nhttps://dreamdojo-world.github.io/ Our Patreon if you wish to...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=mFSFvKquXwI",
       "thumbnail_url": null,
@@ -1382,7 +1565,7 @@
       "id": 37,
       "youtube_video_id": "ZQAz_HrUq68",
       "title": "NVIDIA\u2019s New AI Just Changed Everything",
-      "description": "Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The #NVIDIA paper on Nemotron 3 Super is available here:\nhttps://research.nvidia.com/labs/nemotron/files...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=ZQAz_HrUq68",
       "thumbnail_url": null,
@@ -1674,19 +1857,38 @@
       "thumbnail_url": null,
       "duration_seconds": 799,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "Yannic Kilcher",
       "channel_handle": "@YannicKilcher",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en Hello,<00:00:01.520><c> this</c><00:00:01.760><c> is</c><00:00:01.920><c> in</c><00:00:02.159><c> many</c><00:00:02.399><c> ways</c><00:00:02.639><c> a</c><00:00:02.960><c> response</c> Hello, this is in many ways a response Hello, this is in many ways a response video<00:00:04.000><c> to</c><00:00:04.720><c> Theo</c><00:00:05.200><c> or</c><00:00:05.520><c> T3</c><00:00:06.080><c> GGG's</c><00:00:06.640><c> video</c><00:00:07.040><c> called</c> video to Theo or T3 GG",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "Yannic Kilcher"
+      ],
+      "topics": [
+        "agents",
+        "tools and apps"
+      ],
+      "keywords": [
+        "tool",
+        "then",
+        "code",
+        "call",
+        "back",
+        "here",
+        "tools",
+        "very"
+      ],
+      "themes": [
+        "agents",
+        "multimodality",
+        "training",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 46,
@@ -1698,19 +1900,41 @@
       "thumbnail_url": null,
       "duration_seconds": 2937,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "Yannic Kilcher",
       "channel_handle": "@YannicKilcher",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en Hello<00:00:01.199><c> there.</c><00:00:01.600><c> Today</c><00:00:01.760><c> we're</c><00:00:02.000><c> going</c><00:00:02.080><c> to</c><00:00:02.240><c> look</c> Hello there. Today we're going to look Hello there. Today we're going to look at<00:00:02.639><c> on</c><00:00:02.960><c> the</c><00:00:03.120><c> theoretical</c><00:00:03.760><c> limitations</c><00:00:04.480><c> of</c> at on the theoretical limitations of at on the theoretical limitations of embedding<00:",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "Yannic Kilcher"
+      ],
+      "topics": [
+        "research papers",
+        "tools and apps",
+        "enterprise adoption"
+      ],
+      "keywords": [
+        "like",
+        "here",
+        "embedding",
+        "data",
+        "right",
+        "know",
+        "these",
+        "going"
+      ],
+      "themes": [
+        "benchmarks",
+        "inference",
+        "multimodality",
+        "scaling_laws",
+        "training",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 47,
@@ -1722,19 +1946,44 @@
       "thumbnail_url": null,
       "duration_seconds": 429,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "Yannic Kilcher",
       "channel_handle": "@YannicKilcher",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en Hello.<00:00:01.600><c> I'm</c><00:00:01.920><c> out</c><00:00:02.159><c> of</c><00:00:02.320><c> my</c><00:00:02.560><c> usual</c><00:00:02.879><c> room</c><00:00:03.200><c> today.</c> Hello. I'm out of my usual room today. Hello.",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "Yannic Kilcher"
+      ],
+      "topics": [
+        "agents",
+        "open-source models",
+        "product releases",
+        "research papers",
+        "tools and apps",
+        "enterprise adoption"
+      ],
+      "keywords": [
+        "like",
+        "models",
+        "really",
+        "data",
+        "these",
+        "model",
+        "where",
+        "right"
+      ],
+      "themes": [
+        "agents",
+        "benchmarks",
+        "multimodality",
+        "scaling_laws",
+        "training",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 48,
@@ -1746,19 +1995,43 @@
       "thumbnail_url": null,
       "duration_seconds": 2269,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "Yannic Kilcher",
       "channel_handle": "@YannicKilcher",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en Hello,<00:00:01.439><c> today</c><00:00:01.760><c> we</c><00:00:02.080><c> are</c><00:00:02.320><c> looking</c><00:00:02.560><c> at</c><00:00:03.120><c> context</c> Hello, today we are looking at context Hello, today we are looking at context rot<00:00:04.400><c> how</c><00:00:04.720><c> increasing</c><00:00:05.359><c> input</c><00:00:05.839><c> tokens</c><00:00:06.319><c> impacts</c> rot how increasing input tokens impacts rot how increasing input tokens impacts LLM<",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "Yannic Kilcher"
+      ],
+      "topics": [
+        "product releases",
+        "research papers",
+        "tools and apps",
+        "enterprise adoption",
+        "safety and alignment"
+      ],
+      "keywords": [
+        "context",
+        "sort",
+        "these",
+        "like",
+        "question",
+        "here",
+        "then",
+        "text"
+      ],
+      "themes": [
+        "benchmarks",
+        "multimodality",
+        "safety",
+        "scaling_laws",
+        "training",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 49,
@@ -1770,19 +2043,47 @@
       "thumbnail_url": null,
       "duration_seconds": 1041,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "Matthew Berman",
       "channel_handle": "@matthew_berman",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en Deepseek<00:00:00.719><c> just</c><00:00:00.880><c> dropped</c><00:00:01.199><c> their</c><00:00:01.600><c> latest</c> Deepseek just dropped their latest Deepseek just dropped their latest flagship<00:00:03.280><c> model</c><00:00:04.160><c> V4.</c><00:00:05.040><c> It's</c><00:00:05.359><c> massive,</c> flagship model V4. It's massive, flagship model V4. It's massive, powerful,<00:00:07.520><c> open-source,</c><00:00:08.720><c> and</c><00:00:09.120><c> a</c><00:00:09",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "Matthew Berman"
+      ],
+      "topics": [
+        "agents",
+        "open-source models",
+        "product releases",
+        "research papers",
+        "tools and apps",
+        "enterprise adoption",
+        "safety and alignment"
+      ],
+      "keywords": [
+        "model",
+        "models",
+        "going",
+        "much",
+        "here",
+        "right",
+        "deepseek",
+        "labs"
+      ],
+      "themes": [
+        "agents",
+        "benchmarks",
+        "inference",
+        "multimodality",
+        "safety",
+        "scaling_laws",
+        "training",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 50,
@@ -1794,19 +2095,47 @@
       "thumbnail_url": null,
       "duration_seconds": 3211,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "Matthew Berman",
       "channel_handle": "@matthew_berman",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en We're<00:00:00.320><c> not</c><00:00:00.480><c> just</c><00:00:00.640><c> a</c><00:00:00.880><c> distributor</c><00:00:01.280><c> of</c><00:00:01.439><c> other</c> We're not just a distributor of other We're not just a distributor of other people's<00:00:02.000><c> IP.</c><00:00:02.560><c> We</c><00:00:02.800><c> own</c><00:00:03.040><c> our</c><00:00:03.280><c> own</c><00:00:03.439><c> IP.</c> people's IP. We own our own IP. people's IP.",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "Matthew Berman"
+      ],
+      "topics": [
+        "agents",
+        "open-source models",
+        "product releases",
+        "research papers",
+        "tools and apps",
+        "enterprise adoption",
+        "safety and alignment"
+      ],
+      "keywords": [
+        "people",
+        "think",
+        "model",
+        "know",
+        "going",
+        "because",
+        "code",
+        "like"
+      ],
+      "themes": [
+        "agents",
+        "benchmarks",
+        "inference",
+        "multimodality",
+        "safety",
+        "scaling_laws",
+        "training",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 51,
@@ -1987,187 +2316,394 @@
       "thumbnail_url": null,
       "duration_seconds": 1322,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "Matthew Berman",
       "channel_handle": "@matthew_berman",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en OpenClaw<00:00:01.120><c> is</c><00:00:01.680><c> expensive</c><00:00:02.800><c> and</c><00:00:03.040><c> that's</c><00:00:03.280><c> a</c> OpenClaw is expensive and that's a OpenClaw is expensive and that's a problem.<00:00:03.919><c> I've</c><00:00:04.240><c> seen</c><00:00:04.560><c> people</c><00:00:05.040><c> spend</c><00:00:05.520><c> upwards</c> problem. I've seen people spend upwards problem. I've seen people spend upwards of<00:00:06.400><c> $10,000</c><00:00",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "Matthew Berman"
+      ],
+      "topics": [
+        "agents",
+        "open-source models",
+        "product releases",
+        "tools and apps",
+        "enterprise adoption"
+      ],
+      "keywords": [
+        "models",
+        "model",
+        "going",
+        "local",
+        "cases",
+        "quen",
+        "using",
+        "these"
+      ],
+      "themes": [
+        "agents",
+        "inference",
+        "multimodality",
+        "scaling_laws",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 57,
       "youtube_video_id": "rv23_KcHt4s",
       "title": "The $15B Physical AI Company: Simulation, Autonomy OS, Neural Sim, & 1K Engineers\u2014Applied Intuition",
-      "description": null,
+      "description": "From building Applied Intuition from YC-era autonomy tooling into a $15B physical AI company, Qasar Younis and Peter Ludwig have spent the last decade living through the full arc of autonomy:...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=rv23_KcHt4s",
       "thumbnail_url": null,
       "duration_seconds": 4447,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "Latent Space",
       "channel_handle": "@LatentSpacePod",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en Physical<00:00:00.480><c> machines</c><00:00:00.880><c> today</c><00:00:01.520><c> are</c><00:00:02.240><c> more</c><00:00:02.480><c> akin</c><00:00:03.040><c> to</c> Physical machines today are more akin to Physical machines today are more akin to the<00:00:04.160><c> state</c><00:00:04.560><c> of</c><00:00:04.960><c> the</c><00:00:05.279><c> phone</c><00:00:05.520><c> market</c><00:00:06.400><c> before</c> the state of the phone market before the state of the phone",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "Latent Space"
+      ],
+      "topics": [
+        "agents",
+        "product releases",
+        "research papers",
+        "tools and apps",
+        "enterprise adoption",
+        "safety and alignment"
+      ],
+      "keywords": [
+        "like",
+        "yeah",
+        "think",
+        "know",
+        "right",
+        "actually",
+        "these",
+        "then"
+      ],
+      "themes": [
+        "agents",
+        "benchmarks",
+        "inference",
+        "multimodality",
+        "safety",
+        "scaling_laws",
+        "training",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 58,
       "youtube_video_id": "RrkGoX3Cw7o",
       "title": "AI-Native Engineering: 100% adoption, 5x search throughput, unlimited tokens \u2014 Mikhail Parakhin",
-      "description": null,
+      "description": "From running one of the most aggressive internal AI rollouts in tech to building systems that simulate customers, optimize ML pipelines, and rethink search latency from first principles, Mikhail...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=RrkGoX3Cw7o",
       "thumbnail_url": null,
       "duration_seconds": 4470,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "Latent Space",
       "channel_handle": "@LatentSpacePod",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en I<00:00:00.400><c> do</c><00:00:00.560><c> think</c><00:00:01.040><c> Jensen</c><00:00:01.680><c> gotten</c><00:00:02.000><c> a</c><00:00:02.240><c> lot</c><00:00:02.320><c> of</c><00:00:02.560><c> bad</c> I do think Jensen gotten a lot of bad I do think Jensen gotten a lot of bad press. press. press.",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "Latent Space"
+      ],
+      "topics": [
+        "agents",
+        "open-source models",
+        "product releases",
+        "research papers",
+        "tools and apps",
+        "enterprise adoption"
+      ],
+      "keywords": [
+        "like",
+        "know",
+        "yeah",
+        "think",
+        "then",
+        "right",
+        "very",
+        "people"
+      ],
+      "themes": [
+        "agents",
+        "inference",
+        "multimodality",
+        "scaling_laws",
+        "training",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 59,
       "youtube_video_id": "uqM8qjbLRHA",
       "title": "Training Transformers to solve 95% failure rate of Cancer Trials \u2014 Ron Alfa & Daniel Bear, Noetik",
-      "description": null,
+      "description": "TL;DR: 95% of cancer treatments fail to pass clinical trials, but it may be a matching problem \u2014 if we better understood what patients have which tumors which will respond to which treatments,...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=uqM8qjbLRHA",
       "thumbnail_url": null,
       "duration_seconds": 5122,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "Latent Space",
       "channel_handle": "@LatentSpacePod",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en So<00:00:00.320><c> we</c><00:00:00.560><c> basically</c><00:00:00.800><c> opened</c><00:00:01.040><c> the</c><00:00:01.280><c> lab,</c><00:00:01.920><c> we</c><00:00:02.320><c> hired</c> So we basically opened the lab, we hired So we basically opened the lab, we hired a<00:00:02.800><c> team,</c><00:00:03.200><c> we</c><00:00:03.600><c> got</c><00:00:03.760><c> all</c><00:00:03.919><c> the</c><00:00:04.000><c> instruments,</c><00:00:04.480><c> we</c> a team, we got a",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "Latent Space"
+      ],
+      "topics": [
+        "agents",
+        "open-source models",
+        "product releases",
+        "research papers",
+        "tools and apps",
+        "enterprise adoption",
+        "safety and alignment"
+      ],
+      "keywords": [
+        "like",
+        "know",
+        "data",
+        "these",
+        "yeah",
+        "then",
+        "models",
+        "going"
+      ],
+      "themes": [
+        "agents",
+        "inference",
+        "multimodality",
+        "safety",
+        "scaling_laws",
+        "training",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 60,
       "youtube_video_id": "yyuVR-ML9X8",
       "title": "How to turn Documents into Knowledge: Graphs in Modern AI \u2014 Emil Eifrem, CEO Neo4J",
-      "description": null,
+      "description": "The core argument: AI systems need more than top-K chunks. They need structured context about entities, relationships, permissions, authorship, provenance, and history. GraphRAG combines vector...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=yyuVR-ML9X8",
       "thumbnail_url": null,
       "duration_seconds": 2933,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "Latent Space",
       "channel_handle": "@LatentSpacePod",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en &gt;&gt; Okay,<00:00:04.280><c> we're</c><00:00:04.480><c> in</c><00:00:04.560><c> a</c><00:00:04.640><c> remote</c><00:00:04.920><c> studio</c><00:00:05.440><c> with</c><00:00:05.840><c> Emil</c> &gt;&gt; Okay, we're in a remote studio with Emil &gt;&gt; Okay, we're in a remote studio with Emil Eifrem,<00:00:07.040><c> </c><00:00:07.120><c> CEO</c><00:00:07.320><c> of</c><00:00:07.400><c> Neo4j.</c><00:00:07.800><c> Welcome.</c> Eifrem, CEO of Neo4j. Welcome. Eifrem,",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "Latent Space"
+      ],
+      "topics": [
+        "agents",
+        "product releases",
+        "research papers",
+        "tools and apps",
+        "enterprise adoption"
+      ],
+      "keywords": [
+        "like",
+        "right",
+        "kind",
+        "know",
+        "yeah",
+        "then",
+        "think",
+        "graph"
+      ],
+      "themes": [
+        "agents",
+        "benchmarks",
+        "inference",
+        "multimodality",
+        "scaling_laws",
+        "training",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 61,
       "youtube_video_id": "ATt7QJgt-2k",
       "title": "Notion\u2019s Sarah Sachs & Simon Last on Custom Agents, Evals, and the Future of Work",
-      "description": null,
+      "description": "Sarah Sachs and Simon Last of Notion join us for a deep dive into how Notion built Custom Agents, why it took years and multiple rebuilds to get right, and what it means to turn a productivity...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=ATt7QJgt-2k",
       "thumbnail_url": null,
       "duration_seconds": 5137,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "Latent Space",
       "channel_handle": "@LatentSpacePod",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en Broadly<00:00:00.480><c> speaking,</c><00:00:00.800><c> I'm</c><00:00:01.040><c> really</c><00:00:01.199><c> bullish</c><00:00:01.439><c> on</c> Broadly speaking, I'm really bullish on Broadly speaking, I'm really bullish on CLIs.<00:00:02.720><c> I'm</c><00:00:02.960><c> still</c><00:00:03.120><c> bullish</c><00:00:03.360><c> on</c><00:00:03.520><c> MCPS</c><00:00:04.160><c> in</c><00:00:04.400><c> in</c><00:00:04.799><c> a</c> CLIs. I'm still bullish on MCPS in in a",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "Latent Space"
+      ],
+      "topics": [
+        "agents",
+        "open-source models",
+        "product releases",
+        "research papers",
+        "tools and apps",
+        "enterprise adoption",
+        "safety and alignment"
+      ],
+      "keywords": [
+        "like",
+        "yeah",
+        "think",
+        "know",
+        "right",
+        "then",
+        "really",
+        "agent"
+      ],
+      "themes": [
+        "agents",
+        "benchmarks",
+        "inference",
+        "multimodality",
+        "safety",
+        "scaling_laws",
+        "training",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 62,
       "youtube_video_id": "5KnCKadxSPY",
       "title": "The best engineers don't write the most code. They delete the most code. \u2014 Stay Sassy",
-      "description": null,
+      "description": "Anonymous tech writers Stay Sassy join swyx to talk about AI budgets, per-person token spend, build vs buy, and why code review matters more, not less, in the age of AI coding tools. https://stays...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=5KnCKadxSPY",
       "thumbnail_url": null,
       "duration_seconds": 3450,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "Latent Space",
       "channel_handle": "@LatentSpacePod",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en &gt;&gt; Okay,<00:00:04.880><c> hi.</c><00:00:05.440><c> This</c><00:00:05.680><c> is</c> &gt;&gt; Okay, hi. This is &gt;&gt; Okay, hi. This is Swyx<00:00:07.280><c> in</c><00:00:07.360><c> the</c><00:00:07.440><c> remote</c><00:00:07.800><c> studio</c><00:00:08.400><c> with</c><00:00:08.640><c> a</c><00:00:08.680><c> very</c> Swyx in the remote studio with a very Swyx in the remote studio with a very interesting<00:00:09.560><c> podcast</c><00:00:10.160><c> guest</c>",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "Latent Space"
+      ],
+      "topics": [
+        "agents",
+        "product releases",
+        "research papers",
+        "tools and apps",
+        "enterprise adoption",
+        "safety and alignment"
+      ],
+      "keywords": [
+        "like",
+        "think",
+        "know",
+        "really",
+        "people",
+        "going",
+        "very",
+        "things"
+      ],
+      "themes": [
+        "agents",
+        "multimodality",
+        "safety",
+        "scaling_laws",
+        "training",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 63,
       "youtube_video_id": "CeOXx-XTYek",
       "title": "Extreme Harness Engineering: 1M LOC, 1B toks/day, 0% human code or review \u2014 Ryan Lopopolo, OpenAI",
-      "description": null,
+      "description": "We\u2019re proud to release this ahead of Ryan\u2019s keynote at AIE Europe. Hit the bell, get notified when it is live! Attendees: come prepped for Ryan\u2019s AMA with Vibhu after. Move over, context...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=CeOXx-XTYek",
       "thumbnail_url": null,
       "duration_seconds": 4674,
       "transcript_status": "complete",
-      "analysis_status": "failed",
+      "analysis_status": "complete",
       "channel": "Latent Space",
       "channel_handle": "@LatentSpacePod",
       "transcript_source": "youtube_generated",
       "transcript_language": "en",
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Kind: captions Language: en I<00:00:00.240><c> do</c><00:00:00.480><c> think</c><00:00:00.640><c> that</c><00:00:00.960><c> there</c><00:00:01.280><c> is</c><00:00:01.520><c> an</c><00:00:01.760><c> interesting</c> I do think that there is an interesting I do think that there is an interesting space<00:00:02.320><c> to</c><00:00:02.560><c> explore</c><00:00:02.960><c> here</c><00:00:03.280><c> with</c><00:00:04.160><c> codeex</c><00:00:04.960><c> the</c> space to explore here with codeex the spa",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "Latent Space"
+      ],
+      "topics": [
+        "agents",
+        "open-source models",
+        "product releases",
+        "research papers",
+        "tools and apps",
+        "enterprise adoption",
+        "safety and alignment"
+      ],
+      "keywords": [
+        "like",
+        "right",
+        "yeah",
+        "know",
+        "think",
+        "thing",
+        "things",
+        "agent"
+      ],
+      "themes": [
+        "agents",
+        "inference",
+        "multimodality",
+        "safety",
+        "scaling_laws",
+        "training",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 64,
@@ -2245,7 +2781,7 @@
       "id": 67,
       "youtube_video_id": "FNfIMnpz-ZY",
       "title": "Become an AI power user new course from Andrew Ng",
-      "description": null,
+      "description": "Enroll now: https://bit.ly/4cwVyEy Become an AI power user at work and in everyday tasks! In AI Prompting for Everyone, taught by AI Pioneer Andrew Ng, you\u2019ll learn how to prompt modern...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=FNfIMnpz-ZY",
       "thumbnail_url": null,
@@ -2269,7 +2805,7 @@
       "id": 68,
       "youtube_video_id": "yzajLZXh9JU",
       "title": "Solved: The Bug That Haunted AI Video For Years",
-      "description": "Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The paper is available here:\nhttps://research.nvidia.com/labs/sil/projects/MOTIVE/ Our Patreon...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=yzajLZXh9JU",
       "thumbnail_url": null,
@@ -2437,7 +2973,7 @@
       "id": 75,
       "youtube_video_id": "CSYWbbP_OkY",
       "title": "Competing with ChatGPT and Sierra, building a $10M ARR company \u2014\u00a0Yasser Elsaid, Founder, Chatbase",
-      "description": null,
+      "description": "Resources: https://x.com/yasser_elsaid_/status/1632401916771590144 https://x.com/yasser_elsaid_/status/1878899512443379918 https://x.com/yasser_elsaid_/status/2039038515019997210 https://x.co...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=CSYWbbP_OkY",
       "thumbnail_url": null,
@@ -2461,7 +2997,7 @@
       "id": 76,
       "youtube_video_id": "xRFuPkp4iP8",
       "title": "How To Win Humanity's Last Hackathon - The hardest agent contest in AI.",
-      "description": "Follow this org to sign up: https://hf-learn.short.gy/nvB8JD The hardest agent contest in AI just launched. Here's how to win it.\nYou can now sign up to Humanity's Last Hackathon. You build...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=xRFuPkp4iP8",
       "thumbnail_url": null,
@@ -2485,7 +3021,7 @@
       "id": 77,
       "youtube_video_id": "eCw33snvoNI",
       "title": "NVIDIA's New AI Turns One Photo Into A World That Never Breaks",
-      "description": "Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The paper is available here:\nhttps://research.nvidia.com/labs/sil/projects/lyra2/ Our Patreon if...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=eCw33snvoNI",
       "thumbnail_url": null,
@@ -2509,7 +3045,7 @@
       "id": 78,
       "youtube_video_id": "QzZ4VwDHAT4",
       "title": "Sakana AI\u2019s God Simulator Is Brilliant",
-      "description": "Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Try it out! The paper is available here:\nhttps://pub.sakana.ai/digital-ecosystem/ Our Patreon if...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=QzZ4VwDHAT4",
       "thumbnail_url": null,
