@@ -1,0 +1,52 @@
+{
+  "channels": [
+    {
+      "name": "OpenAI",
+      "handle": "OpenAI",
+      "url": "https://www.youtube.com/@OpenAI/videos",
+      "description": "Official OpenAI product and research updates."
+    },
+    {
+      "name": "Latent Space",
+      "handle": "LatentSpacePod",
+      "url": "https://www.youtube.com/@LatentSpacePod/videos",
+      "description": "Interviews and analysis focused on frontier AI models, tooling, and developer workflows."
+    },
+    {
+      "name": "Google DeepMind",
+      "handle": "GoogleDeepMind",
+      "url": "https://www.youtube.com/@GoogleDeepMind/videos",
+      "description": "Research and product launches from Google DeepMind."
+    },
+    {
+      "name": "DeepLearningAI",
+      "handle": "DeepLearningAI",
+      "url": "https://www.youtube.com/@DeepLearningAI/videos",
+      "description": "Courses, interviews, and AI industry explainers."
+    },
+    {
+      "name": "Hugging Face",
+      "handle": "HuggingFace",
+      "url": "https://www.youtube.com/@HuggingFace/videos",
+      "description": "Open-source AI tooling, demos, and community updates."
+    },
+    {
+      "name": "Two Minute Papers",
+      "handle": "TwoMinutePapers",
+      "url": "https://www.youtube.com/@TwoMinutePapers/videos",
+      "description": "Accessible overviews of recent AI research."
+    },
+    {
+      "name": "Yannic Kilcher",
+      "handle": "YannicKilcher",
+      "url": "https://www.youtube.com/@YannicKilcher/videos",
+      "description": "Technical paper breakdowns and AI commentary."
+    },
+    {
+      "name": "Matthew Berman",
+      "handle": "MatthewBerman",
+      "url": "https://www.youtube.com/@matthew_berman/videos",
+      "description": "LLM product news, demos, and agent workflows."
+    }
+  ]
+}

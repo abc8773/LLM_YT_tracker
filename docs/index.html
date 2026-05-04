@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LLM YouTube Tracker</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Live Landscape Monitor</p>
+          <h1>LLM YouTube Tracker</h1>
+          <p class="lede">
+            An auto-updating watchtower for model launches, agents, tooling, benchmarks, safety, and research commentary.
+          </p>
+        </div>
+        <div class="hero-stats" id="stats">
+          <div class="stat-card">
+            <span class="stat-label">Channels</span>
+            <strong id="stat-channels">0</strong>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Videos</span>
+            <strong id="stat-videos">0</strong>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Analysed</span>
+            <strong id="stat-analysis">0</strong>
+          </div>
+        </div>
+      </header>
+
+      <section class="controls">
+        <label>
+          Channel
+          <select id="channel-filter">
+            <option value="">All channels</option>
+          </select>
+        </label>
+        <label>
+          Theme
+          <select id="theme-filter">
+            <option value="">All themes</option>
+          </select>
+        </label>
+        <label class="search-box">
+          Search
+          <input id="search-input" type="search" placeholder="Search title, topic, keyword..." />
+        </label>
+      </section>
+
+      <section class="status-bar">
+        <span id="data-source">Loading data…</span>
+        <span id="last-updated">Last updated: n/a</span>
+      </section>
+
+      <section class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>Channel</th>
+              <th>Video</th>
+              <th>Speakers</th>
+              <th>Topics</th>
+              <th>Themes</th>
+              <th>Summary</th>
+            </tr>
+          </thead>
+          <tbody id="video-table-body">
+            <tr>
+              <td colspan="7">Loading…</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+    </div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
