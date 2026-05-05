@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T19:10:49+00:00",
+  "generated_at": "2026-05-05T01:30:02+00:00",
   "stats": {
     "channels": 8,
     "videos": 80,
     "transcripts": 80,
     "analysis": 80,
-    "last_video_update": "2026-05-04T19:10:49+00:00"
+    "last_video_update": "2026-05-05T01:30:02+00:00"
   },
   "channels": [
     {
@@ -15,7 +15,7 @@
       "handle": "@Deeplearningai",
       "url": "https://www.youtube.com/@DeepLearningAI/videos",
       "description": "Welcome to the official DeepLearning.AI YouTube channel! Here you can find the videos from our Coursera programs on machine learning as well as recorded events. DeepLearning.AI was founded in 2017 by machine learning and education pioneer Andrew Ng to fill a need for world-class AI education. DeepLearning.AI has created high-quality AI programs on Coursera that have gained an extensive global following. By providing a platform for education and fostering a tight-knit community, DeepLearning.AI has become the pathway for anyone looking to build an AI career.",
-      "last_checked_at": "2026-05-04T19:10:45+00:00"
+      "last_checked_at": "2026-05-05T01:29:59+00:00"
     },
     {
       "id": 2,
@@ -24,7 +24,7 @@
       "handle": "@googledeepmind",
       "url": "https://www.youtube.com/@GoogleDeepMind/videos",
       "description": "We live in an exciting time when AI research and technology are delivering extraordinary advances.In the coming years, AI \u2014 and ultimately artificial general intelligence (AGI) \u2014 has the potential to drive one of the greatest transformations in history. We\u2019re a team of scientists, engineers, ethicists and more, working to build the next generation of AI systems safely and responsibly. By solving some of the hardest scientific and engineering challenges of our time, we\u2019re working to create breakthrough technologies that could advance science, transform work, serve diverse communities \u2014 and improve billions of people\u2019s lives. Learn more about Google DeepMind: https://deepmind.google/about/",
-      "last_checked_at": "2026-05-04T19:10:45+00:00"
+      "last_checked_at": "2026-05-05T01:29:58+00:00"
     },
     {
       "id": 4,
@@ -33,7 +33,7 @@
       "handle": "@HuggingFace",
       "url": "https://www.youtube.com/@HuggingFace/videos",
       "description": "HuggingFace is the platform where the AI community collaborates on models, datasets, research papers and applications. Let's go open science and open-source!",
-      "last_checked_at": "2026-05-04T19:10:46+00:00"
+      "last_checked_at": "2026-05-05T01:29:59+00:00"
     },
     {
       "id": 8,
@@ -42,7 +42,7 @@
       "handle": "@LatentSpacePod",
       "url": "https://www.youtube.com/@LatentSpacePod/videos",
       "description": "The podcast & newsletter where 170,000+ AI Engineers gather to talk models, tools and ideas. Breaking news today you will use at work tomorrow! Full show notes and newsletter at https://latent.space",
-      "last_checked_at": "2026-05-04T19:10:45+00:00"
+      "last_checked_at": "2026-05-05T01:29:58+00:00"
     },
     {
       "id": 7,
@@ -51,7 +51,7 @@
       "handle": "@matthew_berman",
       "url": "https://www.youtube.com/@matthew_berman/videos",
       "description": "My mission is simple: to make the benefits of AI and emerging technology accessible to everyone, everywhere. I believe we are witnessing the most important technological shift of our lifetimes, and I am passionate about helping you understand what it all means. My team and I are not just serving the people building at the frontier; we stay close to the researchers and engineers to translate their work for a broader, curious audience. If you are deeply interested in AI and want to stay informed and competitive in a rapidly changing world, you belong here.",
-      "last_checked_at": "2026-05-04T19:10:47+00:00"
+      "last_checked_at": "2026-05-05T01:30:00+00:00"
     },
     {
       "id": 1,
@@ -60,7 +60,7 @@
       "handle": "@OpenAI",
       "url": "https://www.youtube.com/@OpenAI/videos",
       "description": "OpenAI\u2019s mission is to ensure that artificial general intelligence benefits all of humanity.",
-      "last_checked_at": "2026-05-04T19:10:44+00:00"
+      "last_checked_at": "2026-05-05T01:29:57+00:00"
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
       "handle": "@TwoMinutePapers",
       "url": "https://www.youtube.com/@TwoMinutePapers/videos",
       "description": "What a time to be alive - with Dr. K\u00e1roly Zsolnai-Feh\u00e9r.",
-      "last_checked_at": "2026-05-04T19:10:46+00:00"
+      "last_checked_at": "2026-05-05T01:29:59+00:00"
     },
     {
       "id": 6,
@@ -78,7 +78,7 @@
       "handle": "@YannicKilcher",
       "url": "https://www.youtube.com/@YannicKilcher/videos",
       "description": "I make videos about machine learning research papers, programming, and issues of the AI community, and the broader impact of AI in society. Twitter: https://twitter.com/ykilcher\nDiscord: https://ykilcher.com/discord\nBitChute: https://www.bitchute.com/channel/yannic-kilcher\nLinkedIn: https://www.linkedin.com/in/ykilcher\nBiliBili: https://space.bilibili.com/2017636191 If you want to support me, the best thing to do is to share out the content :) If you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
-      "last_checked_at": "2026-05-04T19:10:47+00:00"
+      "last_checked_at": "2026-05-05T01:30:00+00:00"
     }
   ],
   "videos": [
@@ -86,7 +86,7 @@
       "id": 1,
       "youtube_video_id": "2TGHO4apQ5I",
       "title": "Ritu vs Case Files | With ChatGPT",
-      "description": "Space for focused work with ChatGPT Credits\nDirector: Abhinav Pratiman\nDOP: Tassaduq Hussain\nProduction House: Early Man Film\nCreative agency: Hue & Why",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=2TGHO4apQ5I",
       "thumbnail_url": null,
@@ -2357,7 +2357,7 @@
       "id": 57,
       "youtube_video_id": "rv23_KcHt4s",
       "title": "The $15B Physical AI Company: Simulation, Autonomy OS, Neural Sim, & 1K Engineers\u2014Applied Intuition",
-      "description": null,
+      "description": "From building Applied Intuition from YC-era autonomy tooling into a $15B physical AI company, Qasar Younis and Peter Ludwig have spent the last decade living through the full arc of autonomy:...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=rv23_KcHt4s",
       "thumbnail_url": null,
@@ -2408,7 +2408,7 @@
       "id": 58,
       "youtube_video_id": "RrkGoX3Cw7o",
       "title": "AI-Native Engineering: 100% adoption, 5x search throughput, unlimited tokens \u2014 Mikhail Parakhin",
-      "description": null,
+      "description": "From running one of the most aggressive internal AI rollouts in tech to building systems that simulate customers, optimize ML pipelines, and rethink search latency from first principles, Mikhail...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=RrkGoX3Cw7o",
       "thumbnail_url": null,
@@ -2457,7 +2457,7 @@
       "id": 59,
       "youtube_video_id": "uqM8qjbLRHA",
       "title": "Training Transformers to solve 95% failure rate of Cancer Trials \u2014 Ron Alfa & Daniel Bear, Noetik",
-      "description": null,
+      "description": "TL;DR: 95% of cancer treatments fail to pass clinical trials, but it may be a matching problem \u2014 if we better understood what patients have which tumors which will respond to which treatments,...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=uqM8qjbLRHA",
       "thumbnail_url": null,
@@ -2508,7 +2508,7 @@
       "id": 60,
       "youtube_video_id": "yyuVR-ML9X8",
       "title": "How to turn Documents into Knowledge: Graphs in Modern AI \u2014 Emil Eifrem, CEO Neo4J",
-      "description": null,
+      "description": "The core argument: AI systems need more than top-K chunks. They need structured context about entities, relationships, permissions, authorship, provenance, and history. GraphRAG combines vector...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=yyuVR-ML9X8",
       "thumbnail_url": null,
@@ -2557,7 +2557,7 @@
       "id": 61,
       "youtube_video_id": "ATt7QJgt-2k",
       "title": "Notion\u2019s Sarah Sachs & Simon Last on Custom Agents, Evals, and the Future of Work",
-      "description": null,
+      "description": "Sarah Sachs and Simon Last of Notion join us for a deep dive into how Notion built Custom Agents, why it took years and multiple rebuilds to get right, and what it means to turn a productivity...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=ATt7QJgt-2k",
       "thumbnail_url": null,
@@ -2609,7 +2609,7 @@
       "id": 62,
       "youtube_video_id": "5KnCKadxSPY",
       "title": "The best engineers don't write the most code. They delete the most code. \u2014 Stay Sassy",
-      "description": null,
+      "description": "Anonymous tech writers Stay Sassy join swyx to talk about AI budgets, per-person token spend, build vs buy, and why code review matters more, not less, in the age of AI coding tools. https://stays...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=5KnCKadxSPY",
       "thumbnail_url": null,
@@ -2658,7 +2658,7 @@
       "id": 63,
       "youtube_video_id": "CeOXx-XTYek",
       "title": "Extreme Harness Engineering: 1M LOC, 1B toks/day, 0% human code or review \u2014 Ryan Lopopolo, OpenAI",
-      "description": null,
+      "description": "We\u2019re proud to release this ahead of Ryan\u2019s keynote at AIE Europe. Hit the bell, get notified when it is live! Attendees: come prepped for Ryan\u2019s AMA with Vibhu after. Move over, context...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=CeOXx-XTYek",
       "thumbnail_url": null,
@@ -2761,7 +2761,7 @@
       "id": 65,
       "youtube_video_id": "9-TVwv6wtGQ",
       "title": "What happens now that AI is good at math? \u2014 the OpenAI Podcast Ep. 17",
-      "description": "Math is one of the clearest ways to see how far AI has come in a short span. OpenAI researchers S\u00e9bastien Bubeck and Ernest Ryu join host Andrew Mayne to explain what changed and what it could...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=9-TVwv6wtGQ",
       "thumbnail_url": null,
@@ -2809,7 +2809,7 @@
       "id": 66,
       "youtube_video_id": "gpj9YWbr3IQ",
       "title": "ChatGPT Helps Runs Small Business | The Floral Hire",
-      "description": "Meet Becky, founder of The Floral Hire. Running a small business means doing a bit of everything \u2014 from customer conversations to planning, admin, and creative work. Becky shares how she\u2019s...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=gpj9YWbr3IQ",
       "thumbnail_url": null,
@@ -2983,7 +2983,7 @@
       "id": 70,
       "youtube_video_id": "flvZ6jEj3VU",
       "title": "Bring your work into Codex in a few clicks",
-      "description": "Codex helps teams connect the apps they already use, bring over their setup, and start seeing the magic happen right away. In this quick demo, you\u2019ll see how to:\n* personalize Codex for...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=flvZ6jEj3VU",
       "thumbnail_url": null,
@@ -3024,7 +3024,7 @@
       "id": 71,
       "youtube_video_id": "eHe2F10TlV4",
       "title": "What Codex Unlocks for Virgin Atlantic",
-      "description": "\u201cThe trajectory of Codex is thinking beyond pure engineers, it\u2019s moving into a tool for everyone\u201d Our friends at Virgin Atlantic, Richard Masters and Neil Letchford, launched a new...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=eHe2F10TlV4",
       "thumbnail_url": null,
@@ -3067,7 +3067,7 @@
       "id": 72,
       "youtube_video_id": "kktBVmjA19A",
       "title": "Build Hour: Workspace agents in ChatGPT",
-      "description": "Build workspace agents in ChatGPT that can do work across your tools and help teams move faster. In this Build Hour, you\u2019ll learn how to turn your team\u2019s best practices into shared agents...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=kktBVmjA19A",
       "thumbnail_url": null,
@@ -3117,7 +3117,7 @@
       "id": 73,
       "youtube_video_id": "vD_4Hce2G_w",
       "title": "Introducing GPT-5.5 with Databricks",
-      "description": "\"Codex with GPT-5.5 is currently state-of-the-art.\u201d Arnav Singhvi dropped by to tell us how GPT-5.5 has been transformational for knowledge lift. \u201cIt's like a step size function change....",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=vD_4Hce2G_w",
       "thumbnail_url": null,
@@ -3159,7 +3159,7 @@
       "id": 74,
       "youtube_video_id": "9R_6bLLyM5k",
       "title": "Pinky vs Home Loan | With ChatGPT",
-      "description": "One step ahead with ChatGPT Credits\nDirector: Abhinav Pratiman\nDOP: Tassaduq Hussain\nProduction House: Early Man Film\nCreative agency: Hue & Why",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=9R_6bLLyM5k",
       "thumbnail_url": null,
@@ -3198,7 +3198,7 @@
       "id": 75,
       "youtube_video_id": "CSYWbbP_OkY",
       "title": "Competing with ChatGPT and Sierra, building a $10M ARR company \u2014\u00a0Yasser Elsaid, Founder, Chatbase",
-      "description": null,
+      "description": "Resources: https://x.com/yasser_elsaid_/status/1632401916771590144 https://x.com/yasser_elsaid_/status/1878899512443379918 https://x.com/yasser_elsaid_/status/2039038515019997210 https://x.co...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=CSYWbbP_OkY",
       "thumbnail_url": null,
