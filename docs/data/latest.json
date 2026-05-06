@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T19:02:18+00:00",
+  "generated_at": "2026-05-06T01:28:29+00:00",
   "stats": {
     "channels": 8,
-    "videos": 81,
-    "transcripts": 81,
-    "analysis": 81,
-    "last_video_update": "2026-05-05T19:02:18+00:00"
+    "videos": 82,
+    "transcripts": 82,
+    "analysis": 82,
+    "last_video_update": "2026-05-06T01:28:29+00:00"
   },
   "channels": [
     {
@@ -15,7 +15,7 @@
       "handle": "@Deeplearningai",
       "url": "https://www.youtube.com/@DeepLearningAI/videos",
       "description": "Welcome to the official DeepLearning.AI YouTube channel! Here you can find the videos from our Coursera programs on machine learning as well as recorded events. DeepLearning.AI was founded in 2017 by machine learning and education pioneer Andrew Ng to fill a need for world-class AI education. DeepLearning.AI has created high-quality AI programs on Coursera that have gained an extensive global following. By providing a platform for education and fostering a tight-knit community, DeepLearning.AI has become the pathway for anyone looking to build an AI career.",
-      "last_checked_at": "2026-05-05T19:02:13+00:00"
+      "last_checked_at": "2026-05-06T01:28:22+00:00"
     },
     {
       "id": 2,
@@ -24,7 +24,7 @@
       "handle": "@googledeepmind",
       "url": "https://www.youtube.com/@GoogleDeepMind/videos",
       "description": "We live in an exciting time when AI research and technology are delivering extraordinary advances.In the coming years, AI \u2014 and ultimately artificial general intelligence (AGI) \u2014 has the potential to drive one of the greatest transformations in history. We\u2019re a team of scientists, engineers, ethicists and more, working to build the next generation of AI systems safely and responsibly. By solving some of the hardest scientific and engineering challenges of our time, we\u2019re working to create breakthrough technologies that could advance science, transform work, serve diverse communities \u2014 and improve billions of people\u2019s lives. Learn more about Google DeepMind: https://deepmind.google/about/",
-      "last_checked_at": "2026-05-05T19:02:12+00:00"
+      "last_checked_at": "2026-05-06T01:28:22+00:00"
     },
     {
       "id": 4,
@@ -33,7 +33,7 @@
       "handle": "@HuggingFace",
       "url": "https://www.youtube.com/@HuggingFace/videos",
       "description": "HuggingFace is the platform where the AI community collaborates on models, datasets, research papers and applications. Let's go open science and open-source!",
-      "last_checked_at": "2026-05-05T19:02:13+00:00"
+      "last_checked_at": "2026-05-06T01:28:23+00:00"
     },
     {
       "id": 8,
@@ -42,7 +42,7 @@
       "handle": "@LatentSpacePod",
       "url": "https://www.youtube.com/@LatentSpacePod/videos",
       "description": "The podcast & newsletter where 170,000+ AI Engineers gather to talk models, tools and ideas. Breaking news today you will use at work tomorrow! Full show notes and newsletter at https://latent.space",
-      "last_checked_at": "2026-05-05T19:02:12+00:00"
+      "last_checked_at": "2026-05-06T01:28:21+00:00"
     },
     {
       "id": 7,
@@ -51,7 +51,7 @@
       "handle": "@matthew_berman",
       "url": "https://www.youtube.com/@matthew_berman/videos",
       "description": "My mission is simple: to make the benefits of AI and emerging technology accessible to everyone, everywhere. I believe we are witnessing the most important technological shift of our lifetimes, and I am passionate about helping you understand what it all means. My team and I are not just serving the people building at the frontier; we stay close to the researchers and engineers to translate their work for a broader, curious audience. If you are deeply interested in AI and want to stay informed and competitive in a rapidly changing world, you belong here.",
-      "last_checked_at": "2026-05-05T19:02:14+00:00"
+      "last_checked_at": "2026-05-06T01:28:24+00:00"
     },
     {
       "id": 1,
@@ -60,7 +60,7 @@
       "handle": "@OpenAI",
       "url": "https://www.youtube.com/@OpenAI/videos",
       "description": "OpenAI\u2019s mission is to ensure that artificial general intelligence benefits all of humanity.",
-      "last_checked_at": "2026-05-05T19:02:12+00:00"
+      "last_checked_at": "2026-05-06T01:28:21+00:00"
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
       "handle": "@TwoMinutePapers",
       "url": "https://www.youtube.com/@TwoMinutePapers/videos",
       "description": "What a time to be alive - with Dr. K\u00e1roly Zsolnai-Feh\u00e9r.",
-      "last_checked_at": "2026-05-05T19:02:14+00:00"
+      "last_checked_at": "2026-05-06T01:28:23+00:00"
     },
     {
       "id": 6,
@@ -78,7 +78,7 @@
       "handle": "@YannicKilcher",
       "url": "https://www.youtube.com/@YannicKilcher/videos",
       "description": "I make videos about machine learning research papers, programming, and issues of the AI community, and the broader impact of AI in society. Twitter: https://twitter.com/ykilcher\nDiscord: https://ykilcher.com/discord\nBitChute: https://www.bitchute.com/channel/yannic-kilcher\nLinkedIn: https://www.linkedin.com/in/ykilcher\nBiliBili: https://space.bilibili.com/2017636191 If you want to support me, the best thing to do is to share out the content :) If you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
-      "last_checked_at": "2026-05-05T19:02:14+00:00"
+      "last_checked_at": "2026-05-06T01:28:23+00:00"
     }
   ],
   "videos": [
@@ -437,7 +437,7 @@
       "id": 9,
       "youtube_video_id": "udnhu43tTfk",
       "title": "Teaching the foundations of AI in the classroom",
-      "description": null,
+      "description": "AI is shaping the world young people are growing up in. But how do teachers confidently introduce AI and machine learning in the classroom? Experience AI is a free educational program from...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=udnhu43tTfk",
       "thumbnail_url": null,
@@ -482,7 +482,7 @@
       "id": 10,
       "youtube_video_id": "hv8ZI7foGZk",
       "title": "Introducing Lyria 3 Pro",
-      "description": null,
+      "description": "Last month, we introduced Lyria 3, featuring custom music generation designed to spark creative expression. Now, we\u2019re bringing our most advanced music generation model to more Google products,...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=hv8ZI7foGZk",
       "thumbnail_url": null,
@@ -517,7 +517,7 @@
       "id": 11,
       "youtube_video_id": "qoinGjj60Fo",
       "title": "10 years of AlphaGo: The turning point for AI | Thore Graepel & Pushmeet Kohli",
-      "description": null,
+      "description": "Seoul, March 2016. Two players sit hunched over a 19x19 grid covered in a sea of black and white stones. They are playing the ancient game of Go - a game of unimaginable complexity long thought...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=qoinGjj60Fo",
       "thumbnail_url": null,
@@ -567,7 +567,7 @@
       "id": 12,
       "youtube_video_id": "l5Wpm4o6k1A",
       "title": "Music AI Sandbox | AI x Creativity: Wyclef Jean",
-      "description": null,
+      "description": "Legendary producer Wyclef Jean joins forces with Music AI Sandbox to explore the next era of creative expression. Discover how Wyclef uses these experimental tools to push the boundaries of...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=l5Wpm4o6k1A",
       "thumbnail_url": null,
@@ -612,7 +612,7 @@
       "id": 13,
       "youtube_video_id": "IE0BmXsIzTI",
       "title": "Gemini 3 Deep Think: Optimizing 2D semiconductor fabrication",
-      "description": null,
+      "description": "At Duke University, the Wang Lab utilized Gemini 3 Deep Think to solve a complex challenge in materials science: optimizing fabrication methods for crystal growth. By applying expert-level...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=IE0BmXsIzTI",
       "thumbnail_url": null,
@@ -655,7 +655,7 @@
       "id": 14,
       "youtube_video_id": "bNrbxCvFrKA",
       "title": "Gemini 3 Deep Think: Identifying logical errors in complex mathematics research",
-      "description": null,
+      "description": "Gemini 3 Deep Think's improved reasoning makes it a robust tool for poking holes in even the most complex instances of mathematical reasoning. Lisa Carbone, a mathematician at Rutgers University,...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=bNrbxCvFrKA",
       "thumbnail_url": null,
@@ -696,7 +696,7 @@
       "id": 15,
       "youtube_video_id": "eAOaRJj02HU",
       "title": "Gemini 3 Deep Think: Accelerating mechanical engineering and rapid prototyping",
-      "description": null,
+      "description": "Engineering workflows require translating logic into executable, physical solutions. Anupam Pathak, an R&D lead in Google\u2019s Platforms and Devices division, tested Gemini 3 Deep Think to accelerat...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=eAOaRJj02HU",
       "thumbnail_url": null,
@@ -743,7 +743,7 @@
       "id": 16,
       "youtube_video_id": "wIE3-E9EN4g",
       "title": "Project Genie | Skydiving",
-      "description": null,
+      "description": "Project Genie is Google\u2019s research prototype for creating playable worlds. With just a text or image prompt, you can generate interactive environments that build in real time, as you play...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=wIE3-E9EN4g",
       "thumbnail_url": null,
@@ -778,7 +778,7 @@
       "id": 17,
       "youtube_video_id": "XteKUbuvNrI",
       "title": "Turn your multimodal data into something you can actually query",
-      "description": "Learn more: https://bit.ly/3QcAj29 Images, audio, and video now make up a large share of the data teams work with, but most pipelines still assume everything is structured. Our latest course,...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=XteKUbuvNrI",
       "thumbnail_url": null,
@@ -818,7 +818,7 @@
       "id": 18,
       "youtube_video_id": "bJ8F43j1Fqw",
       "title": "New course! Spec-Driven Development",
-      "description": "Enroll for free: https://bit.ly/4toWsIY Learn spec-driven development in this short course built in partnership with JetBrains, taught by Paul Everitt, Developer Advocate at JetBrains. Vibe...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=bJ8F43j1Fqw",
       "thumbnail_url": null,
@@ -861,7 +861,7 @@
       "id": 19,
       "youtube_video_id": "YW6oWf4xoGk",
       "title": "Boost LLM performance: New SGLang course is live",
-      "description": "Learn more: https://bit.ly/4du2u69 Introducing Efficient Inference with SGLang: Text and Image Generation, built in partnership with LMSys and RadixArk, and taught by Richard Chen a Member...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=YW6oWf4xoGk",
       "thumbnail_url": null,
@@ -903,7 +903,7 @@
       "id": 20,
       "youtube_video_id": "lzKmZzmy29Y",
       "title": "TensorFlow Developer Professional Certificate",
-      "description": "Get started now: https://learn.deeplearning.ai/specializations/tensorflow-developer-professional-certificate The TensorFlow Developer Professional Certificate Specialization is aimed at developers...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=lzKmZzmy29Y",
       "thumbnail_url": null,
@@ -943,7 +943,7 @@
       "id": 21,
       "youtube_video_id": "QRTtS3zElmE",
       "title": "Natural Language Processing Specialization by DeepLearning.AI",
-      "description": "Get started now: https://learn.deeplearning.ai/specializations/natural-language-processing Natural language processing is a subfield of linguistics, computer science, and artificial intelligence...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=QRTtS3zElmE",
       "thumbnail_url": null,
@@ -994,7 +994,7 @@
       "id": 22,
       "youtube_video_id": "JPcx9qHzzgk",
       "title": "AI for Everyone by Andrew Ng",
-      "description": "Get started: https://learn.deeplearning.ai/courses/ai-for-everyone AI is not only for engineers. \u201cAI for Everyone\u201d, a non-technical course, will help you understand AI technologies and...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=JPcx9qHzzgk",
       "thumbnail_url": null,
@@ -1041,7 +1041,7 @@
       "id": 23,
       "youtube_video_id": "omGyNyMNeGM",
       "title": "LoFi Beats for Coding & Focus: Calm Beats to Study, Build, and Think",
-      "description": "A calm playlist for coding, studying, or focused work. Whether you're debugging, reading, or building exciting new things after taking one of DeepLearning.AI's courses, this mix is designed...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=omGyNyMNeGM",
       "thumbnail_url": null,
@@ -1122,7 +1122,7 @@
       "id": 25,
       "youtube_video_id": "aUlhaeb0o4w",
       "title": "Multi-Agent AutoResearch with Open Source Models",
-      "description": null,
+      "description": "In this video, we walk through a multi-agent setup of AutoResearch using open source models and OpenCode. Timestamps\n00:00 - Introduction: Multi-agent AutoResearch setup\n01:07 - Agent Roles:...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=aUlhaeb0o4w",
       "thumbnail_url": null,
@@ -1168,7 +1168,7 @@
       "id": 26,
       "youtube_video_id": "ZD3wwGliWwc",
       "title": "Hugging Face Journal Club: Embarrassingly Simple Self-Distillation Improves Code Generation",
-      "description": null,
+      "description": "The Hugging Face research team discusses Apple's Embarrassingly Simple Self-Distillation Improves Code Generation paper. Paper: https://huggingface.co/papers/2604.01193",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=ZD3wwGliWwc",
       "thumbnail_url": null,
@@ -1211,7 +1211,7 @@
       "id": 27,
       "youtube_video_id": "jlGf2qieSk0",
       "title": "RoPE: Understanding Rotary Positional Embeddings in transformers",
-      "description": null,
+      "description": "Mastering Rotary Positional Embeddings (RoPE): From Zero to Deep Dive Unlock the secrets behind modern Large Language Model (LLM) architectures in this comprehensive breakdown of Rotary Positional...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=jlGf2qieSk0",
       "thumbnail_url": null,
@@ -1248,7 +1248,7 @@
       "id": 28,
       "youtube_video_id": "WyVMGnO-oHk",
       "title": "What are Mixture-of-Experts Models | ft. Aritra",
-      "description": null,
+      "description": "In this clip, Aritra Roy Gosthipaty from the Hugging Face Transformers team breaks down one of the most important (and often misunderstood) architectures in modern AI: Mixture-of-Experts models....",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=WyVMGnO-oHk",
       "thumbnail_url": null,
@@ -1282,7 +1282,7 @@
       "id": 29,
       "youtube_video_id": "O3Ul6H20pLI",
       "title": "Intro to Mixture of Experts | Aritra Roy Gosthipaty | HF Podcast #2",
-      "description": null,
+      "description": "In this episode, Alejandro sits down with Aritra Roy Gosthipaty from the Hugging Face Transformers team to talk about mixture-of-experts models, why dense models still matter, how synthetic...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=O3Ul6H20pLI",
       "thumbnail_url": null,
@@ -1319,7 +1319,7 @@
       "id": 30,
       "youtube_video_id": "dPe9v4gqbdg",
       "title": "We Hired 10 Humans to Train a Robot to Fold Shirts",
-      "description": null,
+      "description": "hey everyone. here's a story about our robotics lab. Here is the blog: https://huggingface.co/spaces/lerobot/robot-folding",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=dPe9v4gqbdg",
       "thumbnail_url": null,
@@ -1356,7 +1356,7 @@
       "id": 31,
       "youtube_video_id": "WXiNBS1GkIU",
       "title": "Are World Models the Next Big Thing? | Merve Noyan",
-      "description": null,
+      "description": "In this clip, Merve breaks down her predictions on ai for 2026 and explains why it matters in practice. Merve goes deep on world models, VLA systems, and on-device agentic models. Chapters:...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=WXiNBS1GkIU",
       "thumbnail_url": null,
@@ -1701,7 +1701,7 @@
       "id": 41,
       "youtube_video_id": "xHi8PUIVyoo",
       "title": "I BUILT A FULLY AUTOMATIC MANSPLAINER",
-      "description": "All information about GTC and the DGX Spark Raffle is here: https://www.ykilcher.com/gtc Links:\nHomepage: https://ykilcher.com\nMerch: https://ykilcher.com/merch\nYouTube: https://www.youtube.com/c...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
       "thumbnail_url": null,
@@ -1736,7 +1736,7 @@
       "id": 42,
       "youtube_video_id": "taCVT5vDAk0",
       "title": "TiDAR: Think in Diffusion, Talk in Autoregression (Paper Analysis)",
-      "description": "Paper: https://arxiv.org/abs/2511.08923 Abstract:\nDiffusion language models hold the promise of fast parallel generation, while autoregressive (AR) models typically excel in quality due to...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=taCVT5vDAk0",
       "thumbnail_url": null,
@@ -1774,7 +1774,7 @@
       "id": 43,
       "youtube_video_id": "v67plFw1nMw",
       "title": "Titans: Learning to Memorize at Test Time (Paper Analysis)",
-      "description": "Paper: https://arxiv.org/abs/2501.00663 Abstract:\nOver more than a decade there has been an extensive research effort on how to effectively utilize recurrent models and attention. While recurrent...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=v67plFw1nMw",
       "thumbnail_url": null,
@@ -1812,7 +1812,7 @@
       "id": 44,
       "youtube_video_id": "Nao16-6l6dQ",
       "title": "[Paper Analysis] The Free Transformer (and some Variational Autoencoder stuff)",
-      "description": "https://arxiv.org/abs/2510.17558 Abstract:\nWe propose an extension of the decoder Transformer that conditions its generative process on random latent variables which are learned without supervisio...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=Nao16-6l6dQ",
       "thumbnail_url": null,
@@ -1851,7 +1851,7 @@
       "id": 45,
       "youtube_video_id": "0bpYCxv2qhw",
       "title": "[Video Response] What Cloudflare's code mode misses about MCP and tool calling",
-      "description": "Theo's Video: https://www.youtube.com/watch?v=bAYZjVAodoo\nCloudflare article: https://blog.cloudflare.com/code-mode/ Links:\nHomepage: https://ykilcher.com\nMerch: https://ykilcher.com/merch...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=0bpYCxv2qhw",
       "thumbnail_url": null,
@@ -1894,7 +1894,7 @@
       "id": 46,
       "youtube_video_id": "zKohTkN0Fyk",
       "title": "[Paper Analysis] On the Theoretical Limitations of Embedding-Based Retrieval (Warning: Rant)",
-      "description": "Paper: https://arxiv.org/abs/2508.21038 Abstract:\nVector embeddings have been tasked with an ever-increasing set of retrieval tasks over the years, with a nascent rise in using them for reasoning,...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=zKohTkN0Fyk",
       "thumbnail_url": null,
@@ -1940,7 +1940,7 @@
       "id": 47,
       "youtube_video_id": "hkAH7-u7t5k",
       "title": "AGI is not coming!",
-      "description": "jack Morris's investigation into GPT-OSS training data https://x.com/jxmnop/status/1953899426075816164?t=3YRhVQDwQLk2gouTSACoqA&s=09",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=hkAH7-u7t5k",
       "thumbnail_url": null,
@@ -1989,7 +1989,7 @@
       "id": 48,
       "youtube_video_id": "hpC4qjWu_aY",
       "title": "Context Rot: How Increasing Input Tokens Impacts LLM Performance (Paper Analysis)",
-      "description": "Paper: https://research.trychroma.com/context-rot Abstract:\nLarge Language Models (LLMs) are typically presumed to process context uniformly\u2014that is, the model should handle the 10,000th...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=hpC4qjWu_aY",
       "thumbnail_url": null,
@@ -2851,7 +2851,7 @@
       "id": 67,
       "youtube_video_id": "FNfIMnpz-ZY",
       "title": "Become an AI power user new course from Andrew Ng",
-      "description": "Enroll now: https://bit.ly/4cwVyEy Become an AI power user at work and in everyday tasks! In AI Prompting for Everyone, taught by AI Pioneer Andrew Ng, you\u2019ll learn how to prompt modern...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=FNfIMnpz-ZY",
       "thumbnail_url": null,
@@ -3249,7 +3249,7 @@
       "id": 76,
       "youtube_video_id": "xRFuPkp4iP8",
       "title": "How To Win Humanity's Last Hackathon - The hardest agent contest in AI.",
-      "description": null,
+      "description": "Follow this org to sign up: https://hf-learn.short.gy/nvB8JD The hardest agent contest in AI just launched. Here's how to win it.\nYou can now sign up to Humanity's Last Hackathon. You build...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=xRFuPkp4iP8",
       "thumbnail_url": null,
@@ -3508,6 +3508,45 @@
         "meetings",
         "faster",
         "codex"
+      ],
+      "themes": [
+        "general_llm_news"
+      ],
+      "confidence": 0.45
+    },
+    {
+      "id": 82,
+      "youtube_video_id": "9d899Ram9Bs",
+      "title": "How GPT5 went from useless to publishing novel results in Quantum Gravity \u2014 Alex Lupsasca, OpenAI",
+      "description": "Read: - https://openai.com/index/new-result-theoretical-physics/\n- https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/ \u201cWhen GPT5 came out, it was able to reproduce...",
+      "published_at": null,
+      "url": "https://www.youtube.com/watch?v=9d899Ram9Bs",
+      "thumbnail_url": null,
+      "duration_seconds": 5511,
+      "transcript_status": "failed",
+      "analysis_status": "complete",
+      "channel": "Latent Space",
+      "channel_handle": "@LatentSpacePod",
+      "transcript_source": "unavailable",
+      "transcript_language": null,
+      "summary": "How GPT5 went from useless to publishing novel results in Quantum Gravity \u2014 Alex Lupsasca, OpenAI: transcript available but too short for a strong automatic summary.",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "Latent Space"
+      ],
+      "topics": [
+        "llm_overview"
+      ],
+      "keywords": [
+        "gpt5",
+        "went",
+        "useless",
+        "publishing",
+        "novel",
+        "results",
+        "quantum",
+        "gravity"
       ],
       "themes": [
         "general_llm_news"
