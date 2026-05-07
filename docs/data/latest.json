@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T08:10:59+00:00",
+  "generated_at": "2026-05-07T13:24:30+00:00",
   "stats": {
     "channels": 8,
     "videos": 87,
     "transcripts": 87,
     "analysis": 87,
-    "last_video_update": "2026-05-07T08:10:58+00:00"
+    "last_video_update": "2026-05-07T13:24:30+00:00"
   },
   "channels": [
     {
@@ -15,7 +15,7 @@
       "handle": "@Deeplearningai",
       "url": "https://www.youtube.com/@DeepLearningAI/videos",
       "description": "Welcome to the official DeepLearning.AI YouTube channel! Here you can find the videos from our Coursera programs on machine learning as well as recorded events. DeepLearning.AI was founded in 2017 by machine learning and education pioneer Andrew Ng to fill a need for world-class AI education. DeepLearning.AI has created high-quality AI programs on Coursera that have gained an extensive global following. By providing a platform for education and fostering a tight-knit community, DeepLearning.AI has become the pathway for anyone looking to build an AI career.",
-      "last_checked_at": "2026-05-07T08:10:45+00:00"
+      "last_checked_at": "2026-05-07T13:24:15+00:00"
     },
     {
       "id": 2,
@@ -24,7 +24,7 @@
       "handle": "@googledeepmind",
       "url": "https://www.youtube.com/@GoogleDeepMind/videos",
       "description": "We live in an exciting time when AI research and technology are delivering extraordinary advances.In the coming years, AI \u2014 and ultimately artificial general intelligence (AGI) \u2014 has the potential to drive one of the greatest transformations in history. We\u2019re a team of scientists, engineers, ethicists and more, working to build the next generation of AI systems safely and responsibly. By solving some of the hardest scientific and engineering challenges of our time, we\u2019re working to create breakthrough technologies that could advance science, transform work, serve diverse communities \u2014 and improve billions of people\u2019s lives. Learn more about Google DeepMind: https://deepmind.google/about/",
-      "last_checked_at": "2026-05-07T08:10:45+00:00"
+      "last_checked_at": "2026-05-07T13:24:14+00:00"
     },
     {
       "id": 4,
@@ -33,7 +33,7 @@
       "handle": "@HuggingFace",
       "url": "https://www.youtube.com/@HuggingFace/videos",
       "description": "HuggingFace is the platform where the AI community collaborates on models, datasets, research papers and applications. Let's go open science and open-source!",
-      "last_checked_at": "2026-05-07T08:10:46+00:00"
+      "last_checked_at": "2026-05-07T13:24:15+00:00"
     },
     {
       "id": 8,
@@ -42,7 +42,7 @@
       "handle": "@LatentSpacePod",
       "url": "https://www.youtube.com/@LatentSpacePod/videos",
       "description": "The podcast & newsletter where 170,000+ AI Engineers gather to talk models, tools and ideas. Breaking news today you will use at work tomorrow! Full show notes and newsletter at https://latent.space",
-      "last_checked_at": "2026-05-07T08:10:45+00:00"
+      "last_checked_at": "2026-05-07T13:24:14+00:00"
     },
     {
       "id": 7,
@@ -51,7 +51,7 @@
       "handle": "@matthew_berman",
       "url": "https://www.youtube.com/@matthew_berman/videos",
       "description": "My mission is simple: to make the benefits of AI and emerging technology accessible to everyone, everywhere. I believe we are witnessing the most important technological shift of our lifetimes, and I am passionate about helping you understand what it all means. My team and I are not just serving the people building at the frontier; we stay close to the researchers and engineers to translate their work for a broader, curious audience. If you are deeply interested in AI and want to stay informed and competitive in a rapidly changing world, you belong here.",
-      "last_checked_at": "2026-05-07T08:10:47+00:00"
+      "last_checked_at": "2026-05-07T13:24:16+00:00"
     },
     {
       "id": 1,
@@ -60,7 +60,7 @@
       "handle": "@OpenAI",
       "url": "https://www.youtube.com/@OpenAI/videos",
       "description": "OpenAI\u2019s mission is to ensure that artificial general intelligence benefits all of humanity.",
-      "last_checked_at": "2026-05-07T08:10:44+00:00"
+      "last_checked_at": "2026-05-07T13:24:13+00:00"
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
       "handle": "@TwoMinutePapers",
       "url": "https://www.youtube.com/@TwoMinutePapers/videos",
       "description": "What a time to be alive - with Dr. K\u00e1roly Zsolnai-Feh\u00e9r.",
-      "last_checked_at": "2026-05-07T08:10:46+00:00"
+      "last_checked_at": "2026-05-07T13:24:15+00:00"
     },
     {
       "id": 6,
@@ -78,7 +78,7 @@
       "handle": "@YannicKilcher",
       "url": "https://www.youtube.com/@YannicKilcher/videos",
       "description": "I make videos about machine learning research papers, programming, and issues of the AI community, and the broader impact of AI in society. Twitter: https://twitter.com/ykilcher\nDiscord: https://ykilcher.com/discord\nBitChute: https://www.bitchute.com/channel/yannic-kilcher\nLinkedIn: https://www.linkedin.com/in/ykilcher\nBiliBili: https://space.bilibili.com/2017636191 If you want to support me, the best thing to do is to share out the content :) If you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
-      "last_checked_at": "2026-05-07T08:10:46+00:00"
+      "last_checked_at": "2026-05-07T13:24:16+00:00"
     }
   ],
   "videos": [
@@ -778,7 +778,7 @@
       "id": 17,
       "youtube_video_id": "XteKUbuvNrI",
       "title": "Turn your multimodal data into something you can actually query",
-      "description": null,
+      "description": "Learn more: https://bit.ly/3QcAj29 Images, audio, and video now make up a large share of the data teams work with, but most pipelines still assume everything is structured. Our latest course,...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=XteKUbuvNrI",
       "thumbnail_url": null,
@@ -818,7 +818,7 @@
       "id": 18,
       "youtube_video_id": "bJ8F43j1Fqw",
       "title": "New course! Spec-Driven Development",
-      "description": null,
+      "description": "Enroll for free: https://bit.ly/4toWsIY Learn spec-driven development in this short course built in partnership with JetBrains, taught by Paul Everitt, Developer Advocate at JetBrains. Vibe...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=bJ8F43j1Fqw",
       "thumbnail_url": null,
@@ -861,7 +861,7 @@
       "id": 19,
       "youtube_video_id": "YW6oWf4xoGk",
       "title": "Boost LLM performance: New SGLang course is live",
-      "description": null,
+      "description": "Learn more: https://bit.ly/4du2u69 Introducing Efficient Inference with SGLang: Text and Image Generation, built in partnership with LMSys and RadixArk, and taught by Richard Chen a Member...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=YW6oWf4xoGk",
       "thumbnail_url": null,
@@ -903,7 +903,7 @@
       "id": 20,
       "youtube_video_id": "lzKmZzmy29Y",
       "title": "TensorFlow Developer Professional Certificate",
-      "description": null,
+      "description": "Get started now: https://learn.deeplearning.ai/specializations/tensorflow-developer-professional-certificate The TensorFlow Developer Professional Certificate Specialization is aimed at developers...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=lzKmZzmy29Y",
       "thumbnail_url": null,
@@ -943,7 +943,7 @@
       "id": 21,
       "youtube_video_id": "QRTtS3zElmE",
       "title": "Natural Language Processing Specialization by DeepLearning.AI",
-      "description": null,
+      "description": "Get started now: https://learn.deeplearning.ai/specializations/natural-language-processing Natural language processing is a subfield of linguistics, computer science, and artificial intelligence...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=QRTtS3zElmE",
       "thumbnail_url": null,
@@ -994,7 +994,7 @@
       "id": 22,
       "youtube_video_id": "JPcx9qHzzgk",
       "title": "AI for Everyone by Andrew Ng",
-      "description": null,
+      "description": "Get started: https://learn.deeplearning.ai/courses/ai-for-everyone AI is not only for engineers. \u201cAI for Everyone\u201d, a non-technical course, will help you understand AI technologies and...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=JPcx9qHzzgk",
       "thumbnail_url": null,
@@ -1427,7 +1427,7 @@
       "id": 33,
       "youtube_video_id": "Xf_v62TQOx4",
       "title": "NVIDIA's New AI Broke My Brain",
-      "description": null,
+      "description": "Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The paper is available here:\nhttps://nvlabs.github.io/GEAR-SONIC/ Our Patreon if you wish to support...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=Xf_v62TQOx4",
       "thumbnail_url": null,
@@ -1461,7 +1461,7 @@
       "id": 34,
       "youtube_video_id": "Sk9tvyRSCgY",
       "title": "DeepMind\u2019s New AI: A Gift To Humanity",
-      "description": null,
+      "description": "Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Links:\nhttps://deepmind.google/models/gemma/gemma-4/\nhttps://ai.google.dev/gemma/docs/core/model_card_4...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=Sk9tvyRSCgY",
       "thumbnail_url": null,
@@ -1495,7 +1495,7 @@
       "id": 35,
       "youtube_video_id": "Ersv1ogj7Jo",
       "title": "Anthropic\u2019s New AI Solves Problems\u2026By Cheating",
-      "description": null,
+      "description": "Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The paper is available here:\nhttps://www.anthropic.com/claude-mythos-preview-system-card Links...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=Ersv1ogj7Jo",
       "thumbnail_url": null,
@@ -1530,7 +1530,7 @@
       "id": 36,
       "youtube_video_id": "mFSFvKquXwI",
       "title": "NVIDIA\u2019s New AI Shouldn\u2019t Work\u2026But It Does",
-      "description": null,
+      "description": "Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers The paper is available here:\nhttps://dreamdojo-world.github.io/ Our Patreon if you wish to...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=mFSFvKquXwI",
       "thumbnail_url": null,
@@ -2357,7 +2357,7 @@
       "id": 57,
       "youtube_video_id": "rv23_KcHt4s",
       "title": "The $15B Physical AI Company: Simulation, Autonomy OS, Neural Sim, & 1K Engineers\u2014Applied Intuition",
-      "description": "From building Applied Intuition from YC-era autonomy tooling into a $15B physical AI company, Qasar Younis and Peter Ludwig have spent the last decade living through the full arc of autonomy:...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=rv23_KcHt4s",
       "thumbnail_url": null,
@@ -2408,7 +2408,7 @@
       "id": 58,
       "youtube_video_id": "RrkGoX3Cw7o",
       "title": "AI-Native Engineering: 100% adoption, 5x search throughput, unlimited tokens \u2014 Mikhail Parakhin",
-      "description": "From running one of the most aggressive internal AI rollouts in tech to building systems that simulate customers, optimize ML pipelines, and rethink search latency from first principles, Mikhail...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=RrkGoX3Cw7o",
       "thumbnail_url": null,
@@ -2457,7 +2457,7 @@
       "id": 59,
       "youtube_video_id": "uqM8qjbLRHA",
       "title": "Training Transformers to solve 95% failure rate of Cancer Trials \u2014 Ron Alfa & Daniel Bear, Noetik",
-      "description": "TL;DR: 95% of cancer treatments fail to pass clinical trials, but it may be a matching problem \u2014 if we better understood what patients have which tumors which will respond to which treatments,...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=uqM8qjbLRHA",
       "thumbnail_url": null,
@@ -2508,7 +2508,7 @@
       "id": 60,
       "youtube_video_id": "yyuVR-ML9X8",
       "title": "How to turn Documents into Knowledge: Graphs in Modern AI \u2014 Emil Eifrem, CEO Neo4J",
-      "description": "The core argument: AI systems need more than top-K chunks. They need structured context about entities, relationships, permissions, authorship, provenance, and history. GraphRAG combines vector...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=yyuVR-ML9X8",
       "thumbnail_url": null,
@@ -2557,7 +2557,7 @@
       "id": 61,
       "youtube_video_id": "ATt7QJgt-2k",
       "title": "Notion\u2019s Sarah Sachs & Simon Last on Custom Agents, Evals, and the Future of Work",
-      "description": "Sarah Sachs and Simon Last of Notion join us for a deep dive into how Notion built Custom Agents, why it took years and multiple rebuilds to get right, and what it means to turn a productivity...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=ATt7QJgt-2k",
       "thumbnail_url": null,
@@ -2609,7 +2609,7 @@
       "id": 62,
       "youtube_video_id": "5KnCKadxSPY",
       "title": "The best engineers don't write the most code. They delete the most code. \u2014 Stay Sassy",
-      "description": "Anonymous tech writers Stay Sassy join swyx to talk about AI budgets, per-person token spend, build vs buy, and why code review matters more, not less, in the age of AI coding tools. https://stays...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=5KnCKadxSPY",
       "thumbnail_url": null,
@@ -2851,7 +2851,7 @@
       "id": 67,
       "youtube_video_id": "FNfIMnpz-ZY",
       "title": "Become an AI power user new course from Andrew Ng",
-      "description": null,
+      "description": "Enroll now: https://bit.ly/4cwVyEy Become an AI power user at work and in everyday tasks! In AI Prompting for Everyone, taught by AI Pioneer Andrew Ng, you\u2019ll learn how to prompt modern...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=FNfIMnpz-ZY",
       "thumbnail_url": null,
@@ -2892,7 +2892,7 @@
       "id": 68,
       "youtube_video_id": "yzajLZXh9JU",
       "title": "Solved: The Bug That Haunted AI Video For Years",
-      "description": null,
+      "description": "Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The paper is available here:\nhttps://research.nvidia.com/labs/sil/projects/MOTIVE/ Our Patreon...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=yzajLZXh9JU",
       "thumbnail_url": null,
@@ -3198,7 +3198,7 @@
       "id": 75,
       "youtube_video_id": "CSYWbbP_OkY",
       "title": "Competing with ChatGPT and Sierra, building a $10M ARR company \u2014\u00a0Yasser Elsaid, Founder, Chatbase",
-      "description": "Resources: https://x.com/yasser_elsaid_/status/1632401916771590144 https://x.com/yasser_elsaid_/status/1878899512443379918 https://x.com/yasser_elsaid_/status/2039038515019997210 https://x.co...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=CSYWbbP_OkY",
       "thumbnail_url": null,
@@ -3296,7 +3296,7 @@
       "id": 77,
       "youtube_video_id": "eCw33snvoNI",
       "title": "NVIDIA's New AI Turns One Photo Into A World That Never Breaks",
-      "description": null,
+      "description": "Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The paper is available here:\nhttps://research.nvidia.com/labs/sil/projects/lyra2/ Our Patreon if...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=eCw33snvoNI",
       "thumbnail_url": null,
@@ -3338,7 +3338,7 @@
       "id": 78,
       "youtube_video_id": "QzZ4VwDHAT4",
       "title": "Sakana AI\u2019s God Simulator Is Brilliant",
-      "description": null,
+      "description": "Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Try it out! The paper is available here:\nhttps://pub.sakana.ai/digital-ecosystem/ Our Patreon if...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=QzZ4VwDHAT4",
       "thumbnail_url": null,
@@ -3518,7 +3518,7 @@
       "id": 82,
       "youtube_video_id": "9d899Ram9Bs",
       "title": "How GPT\u20115 derived new results in theoretical physics and quantum gravity \u2014 Alex Lupsasca, OpenAI",
-      "description": "Read: - https://openai.com/index/new-result-theoretical-physics/\n- https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/ \u201cWhen GPT5 came out, it was able to reproduce...",
+      "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=9d899Ram9Bs",
       "thumbnail_url": null,
@@ -3630,7 +3630,7 @@
       "id": 85,
       "youtube_video_id": "J26M-cpFG-M",
       "title": "Build Interactive Agents with Generative UI",
-      "description": null,
+      "description": "Enroll now: https://bit.ly/4cPZYGJ Introducing Build Interactive Agents with Generative UI, taught by Atai Barkai, co-founder of CopilotKit, the team behind the AG-UI protocol. Most agents...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=J26M-cpFG-M",
       "thumbnail_url": null,
@@ -3666,7 +3666,7 @@
       "id": 86,
       "youtube_video_id": "p7K3xfViWCE",
       "title": "DeepSeek V4 AI Beats Billion Dollar Systems\u2026For Free",
-      "description": null,
+      "description": "Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Check out DeepSeek here:\nhttps://www.deepseek.com/en/ DeepSeek Engram: https://youtu.be/DmtoVnTkQnM...",
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=p7K3xfViWCE",
       "thumbnail_url": null,
