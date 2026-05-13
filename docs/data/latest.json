@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T01:54:34+00:00",
+  "generated_at": "2026-05-13T08:30:57+00:00",
   "stats": {
     "channels": 8,
-    "videos": 98,
-    "transcripts": 98,
-    "analysis": 98,
-    "last_video_update": "2026-05-13T01:54:34+00:00"
+    "videos": 99,
+    "transcripts": 99,
+    "analysis": 99,
+    "last_video_update": "2026-05-13T08:30:57+00:00"
   },
   "channels": [
     {
@@ -15,7 +15,7 @@
       "handle": "@Deeplearningai",
       "url": "https://www.youtube.com/@DeepLearningAI/videos",
       "description": "Welcome to the official DeepLearning.AI YouTube channel! Here you can find the videos from our Coursera programs on machine learning as well as recorded events. DeepLearning.AI was founded in 2017 by machine learning and education pioneer Andrew Ng to fill a need for world-class AI education. DeepLearning.AI has created high-quality AI programs on Coursera that have gained an extensive global following. By providing a platform for education and fostering a tight-knit community, DeepLearning.AI has become the pathway for anyone looking to build an AI career.",
-      "last_checked_at": "2026-05-13T01:53:53+00:00"
+      "last_checked_at": "2026-05-13T08:30:26+00:00"
     },
     {
       "id": 2,
@@ -24,7 +24,7 @@
       "handle": "@googledeepmind",
       "url": "https://www.youtube.com/@GoogleDeepMind/videos",
       "description": "We live in an exciting time when AI research and technology are delivering extraordinary advances.In the coming years, AI \u2014 and ultimately artificial general intelligence (AGI) \u2014 has the potential to drive one of the greatest transformations in history. We\u2019re a team of scientists, engineers, ethicists and more, working to build the next generation of AI systems safely and responsibly. By solving some of the hardest scientific and engineering challenges of our time, we\u2019re working to create breakthrough technologies that could advance science, transform work, serve diverse communities \u2014 and improve billions of people\u2019s lives. Learn more about Google DeepMind: https://deepmind.google/about/",
-      "last_checked_at": "2026-05-13T01:53:53+00:00"
+      "last_checked_at": "2026-05-13T08:30:25+00:00"
     },
     {
       "id": 4,
@@ -33,7 +33,7 @@
       "handle": "@HuggingFace",
       "url": "https://www.youtube.com/@HuggingFace/videos",
       "description": "HuggingFace is the platform where the AI community collaborates on models, datasets, research papers and applications. Let's go open science and open-source!",
-      "last_checked_at": "2026-05-13T01:53:54+00:00"
+      "last_checked_at": "2026-05-13T08:30:26+00:00"
     },
     {
       "id": 8,
@@ -42,7 +42,7 @@
       "handle": "@LatentSpacePod",
       "url": "https://www.youtube.com/@LatentSpacePod/videos",
       "description": "The podcast & newsletter where 170,000+ AI Engineers gather to talk models, tools and ideas. Breaking news today you will use at work tomorrow! Full show notes and newsletter at https://latent.space",
-      "last_checked_at": "2026-05-13T01:53:52+00:00"
+      "last_checked_at": "2026-05-13T08:30:25+00:00"
     },
     {
       "id": 7,
@@ -51,7 +51,7 @@
       "handle": "@matthew_berman",
       "url": "https://www.youtube.com/@matthew_berman/videos",
       "description": "My mission is simple: to make the benefits of AI and emerging technology accessible to everyone, everywhere. I believe we are witnessing the most important technological shift of our lifetimes, and I am passionate about helping you understand what it all means. My team and I are not just serving the people building at the frontier; we stay close to the researchers and engineers to translate their work for a broader, curious audience. If you are deeply interested in AI and want to stay informed and competitive in a rapidly changing world, you belong here.",
-      "last_checked_at": "2026-05-13T01:53:55+00:00"
+      "last_checked_at": "2026-05-13T08:30:27+00:00"
     },
     {
       "id": 1,
@@ -60,7 +60,7 @@
       "handle": "@OpenAI",
       "url": "https://www.youtube.com/@OpenAI/videos",
       "description": "OpenAI\u2019s mission is to ensure that artificial general intelligence benefits all of humanity.",
-      "last_checked_at": "2026-05-13T01:53:52+00:00"
+      "last_checked_at": "2026-05-13T08:30:25+00:00"
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
       "handle": "@TwoMinutePapers",
       "url": "https://www.youtube.com/@TwoMinutePapers/videos",
       "description": "What a time to be alive - with Dr. K\u00e1roly Zsolnai-Feh\u00e9r.",
-      "last_checked_at": "2026-05-13T01:53:54+00:00"
+      "last_checked_at": "2026-05-13T08:30:26+00:00"
     },
     {
       "id": 6,
@@ -78,7 +78,7 @@
       "handle": "@YannicKilcher",
       "url": "https://www.youtube.com/@YannicKilcher/videos",
       "description": "I make videos about machine learning research papers, programming, and issues of the AI community, and the broader impact of AI in society. Twitter: https://twitter.com/ykilcher\nDiscord: https://ykilcher.com/discord\nBitChute: https://www.bitchute.com/channel/yannic-kilcher\nLinkedIn: https://www.linkedin.com/in/ykilcher\nBiliBili: https://space.bilibili.com/2017636191 If you want to support me, the best thing to do is to share out the content :) If you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
-      "last_checked_at": "2026-05-13T01:53:55+00:00"
+      "last_checked_at": "2026-05-13T08:30:27+00:00"
     }
   ],
   "videos": [
@@ -4015,12 +4015,12 @@
     {
       "id": 96,
       "youtube_video_id": "q4rDAu9ggKU",
-      "title": "WTF is going on at Anthropic?!",
+      "title": "What happened to Anthropic?",
       "description": null,
       "published_at": null,
       "url": "https://www.youtube.com/watch?v=q4rDAu9ggKU",
       "thumbnail_url": null,
-      "duration_seconds": 1013,
+      "duration_seconds": 984,
       "transcript_status": "failed",
       "analysis_status": "complete",
       "channel": "Matthew Berman",
@@ -4105,6 +4105,40 @@
       "keywords": [
         "inside",
         "francisco"
+      ],
+      "themes": [
+        "general_llm_news"
+      ],
+      "confidence": 0.45
+    },
+    {
+      "id": 99,
+      "youtube_video_id": "bMmEEa8-6fU",
+      "title": "Suraj vs The Future | With ChatGPT",
+      "description": null,
+      "published_at": null,
+      "url": "https://www.youtube.com/watch?v=bMmEEa8-6fU",
+      "thumbnail_url": null,
+      "duration_seconds": 30,
+      "transcript_status": "failed",
+      "analysis_status": "complete",
+      "channel": "OpenAI",
+      "channel_handle": "@OpenAI",
+      "transcript_source": "unavailable",
+      "transcript_language": null,
+      "summary": "Suraj vs The Future | With ChatGPT: transcript available but too short for a strong automatic summary.",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "OpenAI"
+      ],
+      "topics": [
+        "llm_overview"
+      ],
+      "keywords": [
+        "suraj",
+        "future",
+        "chatgpt"
       ],
       "themes": [
         "general_llm_news"
