@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-10T22:37:37+00:00",
+  "generated_at": "2026-11-11T03:28:26+00:00",
   "stats": {
     "channels": 8,
-    "videos": 775,
-    "transcripts": 143,
-    "analysis": 143,
-    "last_video_update": "2026-11-10T22:37:37+00:00"
+    "videos": 782,
+    "transcripts": 153,
+    "analysis": 153,
+    "last_video_update": "2026-11-11T03:28:26+00:00"
   },
   "channels": [
     {
@@ -15,7 +15,7 @@
       "handle": "@Deeplearningai",
       "url": "https://www.youtube.com/@DeepLearningAI/videos",
       "description": "Welcome to the official DeepLearning.AI YouTube channel! Here you can find the videos from our Coursera programs on machine learning as well as recorded events. DeepLearning.AI was founded in 2017 by machine learning and education pioneer Andrew Ng to fill a need for world-class AI education. DeepLearning.AI has created high-quality AI programs on Coursera that have gained an extensive global following. By providing a platform for education and fostering a tight-knit community, DeepLearning.AI has become the pathway for anyone looking to build an AI career.",
-      "last_checked_at": "2026-11-10T22:36:51+00:00"
+      "last_checked_at": "2026-11-11T03:27:43+00:00"
     },
     {
       "id": 2,
@@ -24,7 +24,7 @@
       "handle": "@googledeepmind",
       "url": "https://www.youtube.com/@GoogleDeepMind/videos",
       "description": "We live in an exciting time when AI research and technology are delivering extraordinary advances. In the coming years, AI \u2014 and ultimately artificial general intelligence (AGI) \u2014 has the potential to drive one of the greatest transformations in history. We\u2019re a team of scientists, engineers, ethicists and more, working to build the next generation of AI systems safely and responsibly. By solving some of the hardest scientific and engineering challenges of our time, we\u2019re working to create breakthrough technologies that could advance science, transform work, serve diverse communities \u2014 and improve billions of people\u2019s lives. Learn more about Google DeepMind: https://deepmind.google/about/",
-      "last_checked_at": "2026-11-10T22:36:51+00:00"
+      "last_checked_at": "2026-11-11T03:27:43+00:00"
     },
     {
       "id": 4,
@@ -33,7 +33,7 @@
       "handle": "@HuggingFace",
       "url": "https://www.youtube.com/@HuggingFace/videos",
       "description": "HuggingFace is the platform where the AI community collaborates on models, datasets, research papers and applications. Let's go open science and open-source!",
-      "last_checked_at": "2026-11-10T22:36:51+00:00"
+      "last_checked_at": "2026-11-11T03:27:44+00:00"
     },
     {
       "id": 8,
@@ -42,7 +42,7 @@
       "handle": "@LatentSpacePod",
       "url": "https://www.youtube.com/@LatentSpacePod/videos",
       "description": "The podcast & newsletter where 200,000+ AI Engineers gather to talk models, tools and ideas. Breaking news today you will use at work tomorrow! Full show notes and newsletter at https://latent.space",
-      "last_checked_at": "2026-11-10T22:36:50+00:00"
+      "last_checked_at": "2026-11-11T03:27:43+00:00"
     },
     {
       "id": 7,
@@ -51,7 +51,7 @@
       "handle": "@matthew_berman",
       "url": "https://www.youtube.com/@matthew_berman/videos",
       "description": "My mission is simple: to make the benefits of AI and emerging technology accessible to everyone, everywhere. I believe we are witnessing the most important technological shift of our lifetimes, and I am passionate about helping you understand what it all means. My team and I are not just serving the people building at the frontier; we stay close to the researchers and engineers to translate their work for a broader, curious audience. If you are deeply interested in AI and want to stay informed and competitive in a rapidly changing world, you belong here.",
-      "last_checked_at": "2026-11-10T22:36:53+00:00"
+      "last_checked_at": "2026-11-11T03:27:45+00:00"
     },
     {
       "id": 1,
@@ -60,7 +60,7 @@
       "handle": "@OpenAI",
       "url": "https://www.youtube.com/@OpenAI/videos",
       "description": "OpenAI\u2019s mission is to ensure that artificial general intelligence benefits all of humanity.",
-      "last_checked_at": "2026-11-10T22:36:50+00:00"
+      "last_checked_at": "2026-11-11T03:27:42+00:00"
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
       "handle": "@TwoMinutePapers",
       "url": "https://www.youtube.com/@TwoMinutePapers/videos",
       "description": "What a time to be alive!",
-      "last_checked_at": "2026-11-10T22:36:52+00:00"
+      "last_checked_at": "2026-11-11T03:27:44+00:00"
     },
     {
       "id": 6,
@@ -78,7 +78,7 @@
       "handle": "@YannicKilcher",
       "url": "https://www.youtube.com/@YannicKilcher/videos",
       "description": "I make videos about machine learning research papers, programming, and issues of the AI community, and the broader impact of AI in society. Twitter: https://twitter.com/ykilcher\nDiscord: https://ykilcher.com/discord\nBitChute: https://www.bitchute.com/channel/yannic-kilcher\nLinkedIn: https://www.linkedin.com/in/ykilcher\nBiliBili: https://space.bilibili.com/2017636191 If you want to support me, the best thing to do is to share out the content :) If you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
-      "last_checked_at": "2026-11-10T22:36:52+00:00"
+      "last_checked_at": "2026-11-11T03:27:44+00:00"
     }
   ],
   "videos": [
@@ -4087,12 +4087,12 @@
       "url": "https://www.youtube.com/watch?v=20qpc5m5Pko",
       "thumbnail_url": null,
       "duration_seconds": 218,
-      "transcript_status": "failed",
+      "transcript_status": "complete",
       "analysis_status": "complete",
       "channel": "DeepLearningAI",
       "channel_handle": "@Deeplearningai",
-      "transcript_source": "unavailable",
-      "transcript_language": null,
+      "transcript_source": "youtube_generated",
+      "transcript_language": "en",
       "summary": "Inside AI Dev 26 \u00d7 San Francisco: transcript available but too short for a strong automatic summary.",
       "analysis_model": "heuristic-fallback",
       "prompt_version": "video-analysis-v1",
@@ -5426,12 +5426,12 @@
       "url": "https://www.youtube.com/watch?v=jkHVVrZhZjQ",
       "thumbnail_url": null,
       "duration_seconds": 1886,
-      "transcript_status": "failed",
+      "transcript_status": "complete",
       "analysis_status": "complete",
       "channel": "DeepLearningAI",
       "channel_handle": "@Deeplearningai",
-      "transcript_source": "unavailable",
-      "transcript_language": null,
+      "transcript_source": "youtube_generated",
+      "transcript_language": "en",
       "summary": "AI Dev 26 x SF | Nyah Macklin: The AI Said So? How to Build Auditable AI Agents Using Context Graphs: transcript available but too short for a strong automatic summary.",
       "analysis_model": "heuristic-fallback",
       "prompt_version": "video-analysis-v1",
@@ -5503,12 +5503,12 @@
       "url": "https://www.youtube.com/watch?v=7knwihgj0fU",
       "thumbnail_url": null,
       "duration_seconds": 3615,
-      "transcript_status": "failed",
+      "transcript_status": "complete",
       "analysis_status": "complete",
       "channel": "Hugging Face",
       "channel_handle": "@HuggingFace",
-      "transcript_source": "unavailable",
-      "transcript_language": null,
+      "transcript_source": "youtube_generated",
+      "transcript_language": "en",
       "summary": "On the slow death of Scaling (birth of Adaption Labs) | Sara Hooker | HF ML Club India EP2: transcript available but too short for a strong automatic summary.",
       "analysis_model": "heuristic-fallback",
       "prompt_version": "video-analysis-v1",
@@ -5779,20 +5779,33 @@
       "url": "https://www.youtube.com/watch?v=rgh0hMYPcd0",
       "thumbnail_url": null,
       "duration_seconds": 99,
-      "transcript_status": "pending",
-      "analysis_status": "pending",
+      "transcript_status": "failed",
+      "analysis_status": "complete",
       "channel": "OpenAI",
       "channel_handle": "@OpenAI",
-      "transcript_source": null,
+      "transcript_source": "unavailable",
       "transcript_language": null,
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "Work for hours (or days!) in Codex using goals: transcript available but too short for a strong automatic summary.",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "OpenAI"
+      ],
+      "topics": [
+        "llm_overview"
+      ],
+      "keywords": [
+        "work",
+        "hours",
+        "days",
+        "codex",
+        "using",
+        "goals"
+      ],
+      "themes": [
+        "general_llm_news"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 145,
@@ -5803,20 +5816,36 @@
       "url": "https://www.youtube.com/watch?v=kaX43RRRUKY",
       "thumbnail_url": null,
       "duration_seconds": 4300,
-      "transcript_status": "pending",
-      "analysis_status": "pending",
+      "transcript_status": "failed",
+      "analysis_status": "complete",
       "channel": "Latent Space",
       "channel_handle": "@LatentSpacePod",
-      "transcript_source": null,
+      "transcript_source": "unavailable",
       "transcript_language": null,
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "AI Agents Need Computers: 74% MoM Growth, 850K/Day Runs, & New Agent Cloud \u2014 Ivan Burazin, Daytona: transcript available but too short for a strong automatic summary.",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "Latent Space"
+      ],
+      "topics": [
+        "agents"
+      ],
+      "keywords": [
+        "agents",
+        "need",
+        "computers",
+        "growth",
+        "runs",
+        "agent",
+        "cloud",
+        "ivan"
+      ],
+      "themes": [
+        "agents",
+        "scaling_laws"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 146,
@@ -5827,20 +5856,34 @@
       "url": "https://www.youtube.com/watch?v=7VISmcJpqis",
       "thumbnail_url": null,
       "duration_seconds": 965,
-      "transcript_status": "pending",
-      "analysis_status": "pending",
+      "transcript_status": "failed",
+      "analysis_status": "complete",
       "channel": "DeepLearningAI",
       "channel_handle": "@Deeplearningai",
-      "transcript_source": null,
+      "transcript_source": "unavailable",
       "transcript_language": null,
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "AI Dev 26 x SF | Ashwyn Sharma: Every App Needs a Voice UI. Here's How to Build It: transcript available but too short for a strong automatic summary.",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "DeepLearningAI"
+      ],
+      "topics": [
+        "tools and apps"
+      ],
+      "keywords": [
+        "ashwyn",
+        "sharma",
+        "every",
+        "needs",
+        "voice",
+        "here",
+        "build"
+      ],
+      "themes": [
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 147,
@@ -5851,20 +5894,33 @@
       "url": "https://www.youtube.com/watch?v=EeyLHsND5i0",
       "thumbnail_url": null,
       "duration_seconds": 1059,
-      "transcript_status": "pending",
-      "analysis_status": "pending",
+      "transcript_status": "failed",
+      "analysis_status": "complete",
       "channel": "DeepLearningAI",
       "channel_handle": "@Deeplearningai",
-      "transcript_source": null,
+      "transcript_source": "unavailable",
       "transcript_language": null,
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "AI Dev 26 x SF | Atai Barkai: Fullstack Agents & Generative UI with AG UI: transcript available but too short for a strong automatic summary.",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "DeepLearningAI",
+        "AG UI"
+      ],
+      "topics": [
+        "agents"
+      ],
+      "keywords": [
+        "atai",
+        "barkai",
+        "fullstack",
+        "agents",
+        "generative"
+      ],
+      "themes": [
+        "agents"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 148,
@@ -5875,20 +5931,33 @@
       "url": "https://www.youtube.com/watch?v=klAynlP04h0",
       "thumbnail_url": null,
       "duration_seconds": 981,
-      "transcript_status": "pending",
-      "analysis_status": "pending",
+      "transcript_status": "failed",
+      "analysis_status": "complete",
       "channel": "DeepLearningAI",
       "channel_handle": "@Deeplearningai",
-      "transcript_source": null,
+      "transcript_source": "unavailable",
       "transcript_language": null,
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "AI Dev 26 x SF | Idan Raman: The Identity Crisis of Browser Agents: transcript available but too short for a strong automatic summary.",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "DeepLearningAI"
+      ],
+      "topics": [
+        "agents"
+      ],
+      "keywords": [
+        "idan",
+        "raman",
+        "identity",
+        "crisis",
+        "browser",
+        "agents"
+      ],
+      "themes": [
+        "agents"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 149,
@@ -5899,20 +5968,33 @@
       "url": "https://www.youtube.com/watch?v=Z_pCTBtCmck",
       "thumbnail_url": null,
       "duration_seconds": 2178,
-      "transcript_status": "pending",
-      "analysis_status": "pending",
+      "transcript_status": "failed",
+      "analysis_status": "complete",
       "channel": "DeepLearningAI",
       "channel_handle": "@Deeplearningai",
-      "transcript_source": null,
+      "transcript_source": "unavailable",
       "transcript_language": null,
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "AI Dev 26 x SF | Tom Howlett: Can LLMs Generate Enterprise Quality Code?: transcript available but too short for a strong automatic summary.",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "DeepLearningAI"
+      ],
+      "topics": [
+        "enterprise adoption"
+      ],
+      "keywords": [
+        "howlett",
+        "llms",
+        "generate",
+        "enterprise",
+        "quality",
+        "code"
+      ],
+      "themes": [
+        "general_llm_news"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 150,
@@ -5923,20 +6005,33 @@
       "url": "https://www.youtube.com/watch?v=zbuf9J5KgOM",
       "thumbnail_url": null,
       "duration_seconds": 1823,
-      "transcript_status": "pending",
-      "analysis_status": "pending",
+      "transcript_status": "failed",
+      "analysis_status": "complete",
       "channel": "DeepLearningAI",
       "channel_handle": "@Deeplearningai",
-      "transcript_source": null,
+      "transcript_source": "unavailable",
       "transcript_language": null,
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "AI Dev 26 x SF | Erik Thorelli: Deploying AI Code Review at Scale: transcript available but too short for a strong automatic summary.",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "DeepLearningAI"
+      ],
+      "topics": [
+        "llm_overview"
+      ],
+      "keywords": [
+        "erik",
+        "thorelli",
+        "deploying",
+        "code",
+        "review",
+        "scale"
+      ],
+      "themes": [
+        "general_llm_news"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 151,
@@ -5947,20 +6042,33 @@
       "url": "https://www.youtube.com/watch?v=sz1lB31xxqo",
       "thumbnail_url": null,
       "duration_seconds": 1953,
-      "transcript_status": "pending",
-      "analysis_status": "pending",
+      "transcript_status": "failed",
+      "analysis_status": "complete",
       "channel": "DeepLearningAI",
       "channel_handle": "@Deeplearningai",
-      "transcript_source": null,
+      "transcript_source": "unavailable",
       "transcript_language": null,
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "AI Dev 26 x SF | Brandon Middleton: Vibe Coding Master Class: transcript available but too short for a strong automatic summary.",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "DeepLearningAI"
+      ],
+      "topics": [
+        "llm_overview"
+      ],
+      "keywords": [
+        "brandon",
+        "middleton",
+        "vibe",
+        "coding",
+        "master",
+        "class"
+      ],
+      "themes": [
+        "general_llm_news"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 152,
@@ -5971,20 +6079,37 @@
       "url": "https://www.youtube.com/watch?v=_KAXZtMSDlo",
       "thumbnail_url": null,
       "duration_seconds": 1313,
-      "transcript_status": "pending",
-      "analysis_status": "pending",
+      "transcript_status": "failed",
+      "analysis_status": "complete",
       "channel": "DeepLearningAI",
       "channel_handle": "@Deeplearningai",
-      "transcript_source": null,
+      "transcript_source": "unavailable",
       "transcript_language": null,
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "AI Dev 26 x SF | Ondra Urban: Agents with Wallets? Putting 25,000 Tools on x402: transcript available but too short for a strong automatic summary.",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "DeepLearningAI",
+        "Wallets"
+      ],
+      "topics": [
+        "agents",
+        "tools and apps"
+      ],
+      "keywords": [
+        "ondra",
+        "urban",
+        "agents",
+        "wallets",
+        "putting",
+        "tools",
+        "x402"
+      ],
+      "themes": [
+        "agents",
+        "tools"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 153,
@@ -5995,20 +6120,36 @@
       "url": "https://www.youtube.com/watch?v=lN7FH754NjM",
       "thumbnail_url": null,
       "duration_seconds": 1106,
-      "transcript_status": "pending",
-      "analysis_status": "pending",
+      "transcript_status": "failed",
+      "analysis_status": "complete",
       "channel": "DeepLearningAI",
       "channel_handle": "@Deeplearningai",
-      "transcript_source": null,
+      "transcript_source": "unavailable",
       "transcript_language": null,
-      "summary": null,
-      "analysis_model": null,
-      "prompt_version": null,
-      "speakers": [],
-      "topics": [],
-      "keywords": [],
-      "themes": [],
-      "confidence": null
+      "summary": "AI Dev 26 x SF | Aman Singla & Aseem Chandra: MarcoPolo, A Workspace for AI to Work with Your Data: transcript available but too short for a strong automatic summary.",
+      "analysis_model": "heuristic-fallback",
+      "prompt_version": "video-analysis-v1",
+      "speakers": [
+        "DeepLearningAI",
+        "Your Data"
+      ],
+      "topics": [
+        "llm_overview"
+      ],
+      "keywords": [
+        "aman",
+        "singla",
+        "aseem",
+        "chandra",
+        "marcopolo",
+        "workspace",
+        "work",
+        "data"
+      ],
+      "themes": [
+        "general_llm_news"
+      ],
+      "confidence": 0.45
     },
     {
       "id": 154,
